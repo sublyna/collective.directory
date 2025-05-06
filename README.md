@@ -1,8 +1,5 @@
 # Collective Directory
 
-[![Build Status](https://github.com/sublyna/collective.directory/actions/workflows/main.yml/badge.svg)](https://github.com/sublyna/collective.directory/actions/workflows/main.yml)
-
-
 This is a curated directory of agencies and freelancers specializing in community building and development.
 
 If you find something wrong or want to add another company, please [follow the rules](CONTRIBUTING.md) to contribute with a pull request.
