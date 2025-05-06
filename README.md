@@ -27,6 +27,8 @@ If you find something wrong or want to add another company, please [follow the r
 | Name | Description | Locations |
 | :------ | :---------- | :-------- |
 | [Clément Le Roux](https://www.linkedin.com/in/lerouxclement) | Community Builder Freelance | `France`, `La Rochelle` |
+| [Eloïse Barrège](https://www.linkedin.com/in/eloisebarrege/) | Brand & Communities Lead | `France`, `Paris` |
+| [Noémie Kempf](https://www.linkedin.com/in/kempfnoemie/) | Expert in storytelling & community building | `France`, `Strasbourg` |
 
 ## Softwares
 
