@@ -60,3 +60,4 @@ If you find something wrong or want to add another company, please [follow the r
 | [InviteMember](https://invitemember.com/) | Discord bot for selling access to private channels and managing paid memberships. | `Cloud` |
 | [TGmembership](https://tgmembership.com/) | Telegram bot for selling access to private channels and managing paid memberships. | `Cloud` |
 | [BotSubscription](https://botsubscription.com/) | Platform for managing paid access to Discord bots and premium features. | `Cloud` |
+| [Circle](https://circle.so/) | All-in-one community platform for creators to build branded spaces with courses, events, and member engagement features. | `Cloud` |
