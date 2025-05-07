@@ -77,3 +77,10 @@ If you find something wrong or want to add another company, please [follow the r
 | [Pragmatic Entrepreneurs Forum](https://forum.pragmaticentrepreneurs.com/) | Community forum for entrepreneurs focused on practical business growth and development strategies. | `France` | `Entrepreneurship`, `Business Growth`, `Development` |
 | [Slash FR](https://slash.fr.community/) | Largest French Discord community focused on Discord news, updates, and mutual support. Features include help channels, news updates, unique progression system, and innovative voice channels. | `France` | `Discord`, `Community Support`, `News` |
 | [Eeko Factory](https://www.eeko-factory.fr/) | All-in-one platform for podcast creators offering strategy, coaching, masterclasses, and community support. Helps podcasters increase visibility, engagement, and build an active audience. | `France` | `Podcast`, `Strategy`, `Community` |
+| [Communitips](https://content.clement-leroux.com/communitips) | French Discord community for community builders to exchange on projects, ask questions, find work, and participate in monthly expert lives and articles. | `France` | `Community Building`, `Discord`, `Expert` |
+
+## Newsletters
+
+| Name | Description | Author | Tags |
+| :------ | :---------- | :-------- | :--- |
+| [Communitips](https://communitips.substack.com/) | Documentation of community building work: case studies + theory. Community Builder Freelance since 2020 and Head of Community at crème de la crème (+20K members). | `France` | `Community Building`, `Case Studies`, `Theory` |
