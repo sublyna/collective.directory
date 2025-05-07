@@ -47,13 +47,11 @@ If you find something wrong or want to add another company, please [follow the r
 | [Mee6](https://mee6.xyz/) | Popular Discord bot with premium features for moderation, welcome messages, and custom commands. | `Cloud` | `Discord`, `Moderation`, `Welcome Messages`, `Custom Commands` |
 | [Twitch](https://twitch.tv/) | Live streaming platform for gamers and content creators with subscription and donation features. | `Cloud` | `Live Streaming`, `Gamers`, `Content Creators`, `Subscription`, `Donation` |
 | [Discord Subscription Bot](https://discord.com/) | Official Discord bot for managing server subscriptions and premium features. | `Cloud` | `Discord`, `Subscriptions`, `Premium Features` |
-| [Payment](https://payment-.com) | Comprehensive payment processing solution for businesses of all sizes. | `Cloud` | `Payment Processing`, `Businesses` |
 | [MemberSpace](https://memberspace.com/) | WordPress plugin for creating member-only content and selling digital products. | `Cloud` | `WordPress`, `Member-Only Content`, `Digital Products` |
 | [Inviterobot](https://inviterobot.com/) | Discord bot for managing invites, tracking growth, and monetizing your server. | `Cloud` | `Discord`, `Invites`, `Growth`, `Monetization` |
 | [Squareup](https://squareup.com/) | Point-of-sale system for businesses to accept payments in-store and online. | `Cloud` | `Point-of-Sale`, `Businesses`, `Payments` |
 | [SubscribeStar](https://subscribestar.com/) | Alternative to Patreon for content creators to receive support from their audience. | `Cloud` | `Alternative`, `Patreon`, `Content Creators`, `Support` |
 | [Squarespace](https://squarespace.com/) | Website builder with built-in e-commerce and membership features. | `Cloud` | `Website Builder`, `E-commerce`, `Memberships` |
-| [Processing](https://processing-.com) | Payment processing solution for businesses with advanced reporting and analytics. | `Cloud` | `Payment Processing`, `Businesses`, `Advanced Reporting`, `Analytics` |
 | [InviteMember](https://invitemember.com/) | Discord bot for selling access to private channels and managing paid memberships. | `Cloud` | `Discord`, `Access`, `Paid Memberships` |
 | [TGmembership](https://tgmembership.com/) | Telegram bot for selling access to private channels and managing paid memberships. | `Cloud` | `Telegram`, `Access`, `Paid Memberships` |
 | [BotSubscription](https://botsubscription.com/) | Platform for managing paid access to Discord bots and premium features. | `Cloud` | `Discord`, `Bots`, `Paid Access`, `Premium Features` |
