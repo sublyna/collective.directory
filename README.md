@@ -31,7 +31,8 @@ If you find something wrong or want to add another company, please [follow the r
 | [Tancrède d'Aspremont Lynden](https://www.linkedin.com/in/tancrede-d-aspremont-lynden/) | Community Builder & ex-Mentor at Komuno, helping brands develop their community strategies and mentoring new community builders. | `Belgium`, `Brussels` | `Community Building`, `Mentoring`, `Strategy` |
 | [Niels Rolland](https://www.linkedin.com/in/nielsrolland/) | Community Builder & Entrepreneur. Cofounder & CEO at Paatch, empowering freelancers to connect and learn AI. | `France`, `Paris` | `WhatsApp`, `Circle`, `AI` |
 | [Antoine Chauffrut](https://www.linkedin.com/in/antoine-chauffrut/) | Community Builder specializing in networking and strategic partnerships. Created and managed the Scale-up Collective at France Digitale. | `France`, `Paris` | `C-Level`, `Strategic Partnerships`, `Community Engagement` |
-| [Arthur Battais](https://www.linkedin.com/in/arthurbattais/) | Discord expert since 2017, certified moderator, and CEO of FCA.gg. Specializes in building and managing Discord communities for major brands like Louis Vuitton and Ligue 1. | `France`, `Paris` | `Discord`, `Community Management`, `Brand Communities` |
+| [Arthur Battais](https://www.linkedin.com/in/arthurbattais/) | Discord expert since 2017, certified moderator, and CEO of FCA.gg. Specializes in building and managing Discord communities for major brands like Hugo Décrypte and Ligue 1. | `France`, `Paris` | `Discord`, `Community Management`, `Brand Communities` |
+| [Jules Palatin](https://www.linkedin.com/in/jules-palatin-discord/) | CEO of Netcord, a leading Discord agency that has supported over 130 clients including Louis Vuitton, PSG, and Universal Music. Specializes in Discord community creation, animation, and activation. | `France`, `Paris` | `Discord`, `Brand Communities`, `Agency` |
 
 ## Softwares
 
