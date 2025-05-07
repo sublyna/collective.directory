@@ -31,6 +31,7 @@ If you find something wrong or want to add another company, please [follow the r
 | [Tancrède d'Aspremont Lynden](https://www.linkedin.com/in/tancrede-d-aspremont-lynden/) | Community Builder & ex-Mentor at Komuno, helping brands develop their community strategies and mentoring new community builders. | `Belgium`, `Brussels` | `Community Building`, `Mentoring`, `Strategy` |
 | [Niels Rolland](https://www.linkedin.com/in/nielsrolland/) | Community Builder & Entrepreneur. Cofounder & CEO at Paatch, empowering freelancers to connect and learn AI. | `France`, `Paris` | `WhatsApp`, `Circle`, `AI` |
 | [Antoine Chauffrut](https://www.linkedin.com/in/antoine-chauffrut/) | Community Builder specializing in networking and strategic partnerships. Created and managed the Scale-up Collective at France Digitale. | `France`, `Paris` | `C-Level`, `Strategic Partnerships`, `Community Engagement` |
+| [Arthur Battais](https://www.linkedin.com/in/arthurbattais/) | Discord expert since 2017, certified moderator, and CEO of FCA.gg. Specializes in building and managing Discord communities for major brands like Louis Vuitton and Ligue 1. | `France`, `Paris` | `Discord`, `Community Management`, `Brand Communities` |
 
 ## Softwares
 
@@ -70,4 +71,5 @@ If you find something wrong or want to add another company, please [follow the r
 | [La Growth Machine Playground](https://playground.lagrowthmachine.com/) | Community forum for growth hackers and community builders, offering discussions, events, community playbooks, and contests in both English and French. | `France` | `Growth Hacking`, `Community Building`, `Events`, `Playbooks`, `Contests` |
 | [Growth Hacking France](https://www.growthhacking.fr/) | Community forum for growth hackers, featuring discussions on acquisition, automation, SEO, scraping, and various growth hacking techniques. | `France` | `Growth Hacking`, `Acquisition`, `Automation`, `SEO`, `Scraping` |
 | [Pragmatic Entrepreneurs Forum](https://forum.pragmaticentrepreneurs.com/) | Community forum for entrepreneurs focused on practical business growth and development strategies. | `France` | `Entrepreneurship`, `Business Growth`, `Development` |
+| [Slash FR](https://slash.fr.community/) | Largest French Discord community focused on Discord news, updates, and mutual support. Features include help channels, news updates, unique progression system, and innovative voice channels. | `France` | `Discord`, `Community Support`, `News` |
 
