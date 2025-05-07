@@ -28,7 +28,7 @@ If you find something wrong or want to add another company, please [follow the r
 | [Noémie Kempf](https://www.linkedin.com/in/kempfnoemie/) | Expert in storytelling & community building | `France`, `Strasbourg` | `Community`, `Storytelling` |
 | [Julien Lagneaux](https://www.linkedin.com/in/julienlagneaux/) | Community Builder & Social Media Manager freelance, helping brands become references among their fans. Founder of Game Zone. | `France`, `Nantes` | `Community`, `Social Media`, `Gaming` |
 | [Clément Moesan](https://www.linkedin.com/in/clement-moesan/) | Community Builder Freelance helping brands and infopreneurs convert and create buzz around their products through solid and active communities. | `France`, `Paris`| `Community`, `Brands` |
-| [Tancrède d'Aspremont Lynden](https://www.linkedin.com/in/tancrede-d-aspremont-lynden/) | Digital Marketing Specialist at Vistalaro, helping SMEs with marketing solutions | `Belgium`, `Brussels` | `Digital Marketing`, `SMEs` |
+| [Tancrède d'Aspremont Lynden](https://www.linkedin.com/in/tancrede-d-aspremont-lynden/) | Community Builder & ex-Mentor at Komuno, helping brands develop their community strategies and mentoring new community builders. | `Belgium`, `Brussels` | `Community Building`, `Mentoring`, `Strategy` |
 | [Niels Rolland](https://www.linkedin.com/in/nielsrolland/) | Community Builder & Entrepreneur. Cofounder & CEO at Paatch, empowering freelancers to connect and learn AI. | `France`, `Paris` | `WhatsApp`, `Circle`, `AI` |
 
 ## Softwares
