@@ -60,9 +60,9 @@ If you find something wrong or want to add another company, please [follow the r
 | [Twitch](https://twitch.tv/) | Live streaming platform for gamers and content creators with subscription and donation features. | `Cloud` | `Live Streaming`, `Gamers`, `Content Creators` |
 | [Discord Subscription Bot](https://discord.com/) | Official Discord bot for managing server subscriptions and premium features. | `Cloud` | `Discord`, `Subscriptions`, `Premium Features` |
 | [MemberSpace](https://memberspace.com/) | WordPress plugin for creating member-only content and selling digital products. | `Cloud` | `WordPress`, `Member-Only Content`, `Digital Products` |
-| [Inviterobot](https://inviterobot.com/) | Discord bot for managing invites, tracking growth, and monetizing your server. | `Cloud` | `Discord`, `Invites`, `Growth`, `Monetization` |
+| [Inviterobot](https://inviterobot.com/) | Discord bot for managing invites, tracking growth, and monetizing your server. | `Cloud` | `Discord`, `Monetization` |
 | [Squareup](https://squareup.com/) | Point-of-sale system for businesses to accept payments in-store and online. | `Cloud` | `Point-of-Sale`, `Businesses`, `Payments` |
-| [SubscribeStar](https://subscribestar.com/) | Alternative to Patreon for content creators to receive support from their audience. | `Cloud` | `Alternative`, `Patreon`, `Content Creators`, `Support` |
+| [SubscribeStar](https://subscribestar.com/) | Alternative to Patreon for content creators to receive support from their audience. | `Cloud` | `Alternative`, `Patreon`, `Content Creators` |
 | [Squarespace](https://squarespace.com/) | Website builder with built-in e-commerce and membership features. | `Cloud` | `Website Builder`, `E-commerce`, `Memberships` |
 | [InviteMember](https://invitemember.com/) | Discord bot for selling access to private channels and managing paid memberships. | `Cloud` | `Discord`, `Access`, `Paid Memberships` |
 | [TGmembership](https://tgmembership.com/) | Telegram bot for selling access to private channels and managing paid memberships. | `Cloud` | `Telegram`, `Access`, `Paid Memberships` |
@@ -74,14 +74,14 @@ If you find something wrong or want to add another company, please [follow the r
 
 | Name | Description | Locations | Tags |
 | :------ | :---------- | :-------- | :--- |
-| [Paatch](https://www.paat.ch/) | Community platform for freelancers and remote workers, offering coworking spaces, coliving experiences, and AI-focused events. | `France` | `Freelancers`, `Remote Work`, `Coworking`, `Coliving`, `AI Events` |
-| [La Growth Machine Playground](https://playground.lagrowthmachine.com/) | Community forum for growth hackers and community builders, offering discussions, events, community playbooks, and contests in both English and French. | `France` | `Growth Hacking`, `Community Building`, `Events`, `Playbooks`, `Contests` |
-| [Growth Hacking France](https://www.growthhacking.fr/) | Community forum for growth hackers, featuring discussions on acquisition, automation, SEO, scraping, and various growth hacking techniques. | `France` | `Growth Hacking`, `Acquisition`, `Automation`, `SEO`, `Scraping` |
+| [Paatch](https://www.paat.ch/) | Community platform for freelancers and remote workers, offering coworking spaces, coliving experiences, and AI-focused events. | `France` | `Freelancers`, `Remote Work`, `Coworking` |
+| [La Growth Machine Playground](https://playground.lagrowthmachine.com/) | Community forum for growth hackers and community builders, offering discussions, events, community playbooks, and contests in both English and French. | `France` | `Growth Hacking`, `Playbooks` |
+| [Growth Hacking France](https://www.growthhacking.fr/) | Community forum for growth hackers, featuring discussions on acquisition, automation, SEO, scraping, and various growth hacking techniques. | `France` | `Growth Hacking`, `Automation`, `Scraping` |
 | [Pragmatic Entrepreneurs Forum](https://forum.pragmaticentrepreneurs.com/) | Community forum for entrepreneurs focused on practical business growth and development strategies. | `France` | `Entrepreneurship`, `Business Growth`, `Development` |
 | [Slash FR](https://slash.fr.community/) | Largest French Discord community focused on Discord news, updates, and mutual support. Features include help channels, news updates, unique progression system, and innovative voice channels. | `France` | `Discord`, `Community Support`, `News` |
 | [Eeko Factory](https://www.eeko-factory.fr/) | All-in-one platform for podcast creators offering strategy, coaching, masterclasses, and community support. Helps podcasters increase visibility, engagement, and build an active audience. | `France` | `Podcast Strategist`, `Strategy`, `Community` |
-| [Communitips Discord](https://content.clement-leroux.com/communitips) | French Discord community for community builders to exchange on projects, ask questions, find work, and participate in monthly expert lives and articles. | `France` | `Community Building`, `Discord`, `Expert` |
-| [Qonto Community](https://community.qonto.com/fr) | Professional community platform for entrepreneurs and business leaders, featuring dedicated spaces for finance, growth, CSR, and more. | `France` | `Business`, `Finance`, `Accounting`, `Growth`, `CSR` |
+| [Communitips Discord](https://content.clement-leroux.com/communitips) | French Discord community for community builders to exchange on projects, ask questions, find work, and participate in monthly expert lives and articles. | `France` | `Community Building`, `Discord`,  |
+| [Qonto Community](https://community.qonto.com/fr) | Professional community platform for entrepreneurs and business leaders, featuring dedicated spaces for finance, growth, CSR, and more. | `France` | `Business`, `Finance`, `Accounting` |
 
 ## Newsletters
 
