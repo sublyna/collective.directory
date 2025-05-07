@@ -57,7 +57,6 @@ If you find something wrong or want to add another company, please [follow the r
 | [Accessdock](https://accessdock.com/) | Discord bot for managing paid memberships and selling access to private channels. | `Cloud` | `Discord`, `Paid Memberships`, `Access Management` |
 | [Mighty Networks](https://mighty.com/) | Platform for creating branded communities with courses, events, and member spaces. | `Cloud` | `Branded Communities`, `Courses`, `Events` |
 | [Mee6](https://mee6.xyz/) | Popular Discord bot with premium features for moderation, welcome messages, and custom commands. | `Cloud` | `Discord`, `Moderation`, `Custom Commands` |
-| [Twitch](https://twitch.tv/) | Live streaming platform for gamers and content creators with subscription and donation features. | `Cloud` | `Live Streaming`, `Gamers`, `Content Creators` |
 | [Discord Subscription Bot](https://discord.com/) | Official Discord bot for managing server subscriptions and premium features. | `Cloud` | `Discord`, `Subscriptions`, `Premium Features` |
 | [MemberSpace](https://memberspace.com/) | WordPress plugin for creating member-only content and selling digital products. | `Cloud` | `WordPress`, `Member-Only Content`, `Digital Products` |
 | [Inviterobot](https://inviterobot.com/) | Discord bot for managing invites, tracking growth, and monetizing your server. | `Cloud` | `Discord`, `Monetization` |
