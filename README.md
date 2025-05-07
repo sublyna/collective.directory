@@ -10,7 +10,7 @@ If you find something wrong or want to add another company, please [follow the r
 - [Agencies](#agencies)
 - [Freelances](#freelances)
 - [Softwares](#softwares)
-
+- [Communities](#communities)
 ## Agencies
 
 | Company | Description | Locations | Tags |
@@ -28,6 +28,7 @@ If you find something wrong or want to add another company, please [follow the r
 | [Noémie Kempf](https://www.linkedin.com/in/kempfnoemie/) | Expert in storytelling & community building | `France`, `Strasbourg` | `Community`, `Storytelling` |
 | [Julien Lagneaux](https://www.linkedin.com/in/julienlagneaux/) | Community Builder & Social Media Manager freelance, helping brands become references among their fans. Founder of Game Zone. | `France`, `Nantes` | `Community`, `Social Media`, `Gaming` |
 | [Clément Moesan](https://www.linkedin.com/in/clement-moesan/) | Community Builder Freelance helping brands and infopreneurs convert and create buzz around their products through solid and active communities. | `France`, `Paris`| `Community`, `Brands` |
+| [Tancrède d'Aspremont Lynden](https://www.linkedin.com/in/tancrede-d-aspremont-lynden/) | Digital Marketing Specialist at Vistalaro, helping SMEs with marketing solutions | `Belgium`, `Brussels` | `Digital Marketing`, `SMEs` |
 
 ## Softwares
 
@@ -58,3 +59,11 @@ If you find something wrong or want to add another company, please [follow the r
 | [TGmembership](https://tgmembership.com/) | Telegram bot for selling access to private channels and managing paid memberships. | `Cloud` | `Telegram`, `Access`, `Paid Memberships` |
 | [BotSubscription](https://botsubscription.com/) | Platform for managing paid access to Discord bots and premium features. | `Cloud` | `Discord`, `Bots`, `Paid Access` |
 | [Circle](https://circle.so/) | All-in-one community platform for creators to build branded spaces with courses, events, and member engagement features. | `Cloud` | `Community Platform`, `Creators`, `Branded Spaces` |
+
+
+## Communities
+
+| Name | Description | Locations | Tags |
+| :------ | :---------- | :-------- | :--- |
+| [Paatch](https://www.paat.ch/) | Community platform for freelancers and remote workers, offering coworking spaces, coliving experiences, and AI-focused events. | `France` | `Freelancers`, `Remote Work`, `Coworking`, `Coliving`, `AI Events` |
+
