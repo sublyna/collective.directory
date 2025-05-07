@@ -23,7 +23,7 @@ If you find something wrong or want to add another company, please [follow the r
 
 | Name | Description | Locations | Tags |
 | :------ | :---------- | :-------- | :--- |
-| [Clément Le Roux](https://www.linkedin.com/in/lerouxclement) | Community Builder Freelance | `France`, `La Rochelle` | `Community` |
+| [Clément Le Roux](https://www.linkedin.com/in/lerouxclement) | Community Builder Freelance since 2020, Head of Community at crème de la crème (+20K members). Expert in community strategy, animation, tools, launch, and growth. | `France`, `La Rochelle` | `Community`, `Strategy`, `Growth` |
 | [Eloïse Barrège](https://www.linkedin.com/in/eloisebarrege/) | Brand & Communities Lead | `France`, `Paris` | `Community`, `Brand` |
 | [Noémie Kempf](https://www.linkedin.com/in/kempfnoemie/) | Expert in storytelling & community building | `France`, `Strasbourg` | `Community`, `Storytelling` |
 | [Julien Lagneaux](https://www.linkedin.com/in/julienlagneaux/) | Community Builder & Social Media Manager freelance, helping brands become references among their fans. Founder of Game Zone. | `France`, `Nantes` | `Community`, `Social Media`, `Gaming` |
