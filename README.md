@@ -33,6 +33,7 @@ If you find something wrong or want to add another company, please [follow the r
 | [Antoine Chauffrut](https://www.linkedin.com/in/antoine-chauffrut/) | Community Builder specializing in networking and strategic partnerships. Created and managed the Scale-up Collective at France Digitale. | `France`, `Paris` | `C-Level`, `Strategic Partnerships`, `Community Engagement` |
 | [Arthur Battais](https://www.linkedin.com/in/arthurbattais/) | Discord expert since 2017, certified moderator, and CEO of FCA.gg. Specializes in building and managing Discord communities for major brands like Hugo Décrypte and Ligue 1. | `France`, `Paris` | `Discord`, `Community Management`, `Brand Communities` |
 | [Jules Palatin](https://www.linkedin.com/in/jules-palatin-discord/) | CEO of Netcord, a leading Discord agency that has supported over 130 clients including Louis Vuitton, PSG, and Universal Music. Specializes in Discord community creation, animation, and activation. | `France`, `Paris` | `Discord`, `Brand Communities`, `Agency` |
+| [Anne-Claire Lecat](https://www.linkedin.com/in/anne-claire-lecat-5240b126/) | Brand & Community Builder, Content & Communication Strategy expert. Founder of eeko podcast and Panache. Specializes in brand building and community development. | `Spain`, `Barcelona` | `Podcast`, `Community Development`, `Content Strategy` |
 
 ## Softwares
 
@@ -73,4 +74,4 @@ If you find something wrong or want to add another company, please [follow the r
 | [Growth Hacking France](https://www.growthhacking.fr/) | Community forum for growth hackers, featuring discussions on acquisition, automation, SEO, scraping, and various growth hacking techniques. | `France` | `Growth Hacking`, `Acquisition`, `Automation`, `SEO`, `Scraping` |
 | [Pragmatic Entrepreneurs Forum](https://forum.pragmaticentrepreneurs.com/) | Community forum for entrepreneurs focused on practical business growth and development strategies. | `France` | `Entrepreneurship`, `Business Growth`, `Development` |
 | [Slash FR](https://slash.fr.community/) | Largest French Discord community focused on Discord news, updates, and mutual support. Features include help channels, news updates, unique progression system, and innovative voice channels. | `France` | `Discord`, `Community Support`, `News` |
-
+| [eeko-factory](https://www.eeko-factory.fr/) | All-in-one platform for podcast creators offering strategy, coaching, masterclasses, and community support. Helps podcasters increase visibility, engagement, and build an active audience. | `France` | `Podcast`, `Strategy`, `Community` |
