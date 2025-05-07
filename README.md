@@ -35,6 +35,7 @@ If you find something wrong or want to add another company, please [follow the r
 | [Jules Palatin](https://www.linkedin.com/in/jules-palatin-discord/) | CEO of Netcord, a leading Discord agency that has supported over 130 clients including Louis Vuitton, PSG, and Universal Music. Specializes in Discord community creation, animation, and activation. | `France`, `Paris` | `Discord`, `Brand Communities`, `Agency` |
 | [Anne-Claire Lecat](https://www.linkedin.com/in/anne-claire-lecat-5240b126/) | Brand & Community Builder, Content & Communication Strategy expert. Founder of eeko podcast and Panache. Specializes in brand building and community development. | `Spain`, `Barcelona` | `Podcast`, `Community Development`, `Content Strategy` |
 | [Maëlys Silveira](https://www.linkedin.com/in/maelys-silveira/) | Community Builder & Creator of the podcast "On n'est pas tout·e seul·e". Helps impact organizations build and sustain communities to achieve their mission and goals. | `France` | `Community Building`, `Podcast`, `Impact Organizations` |
+| [Emmanuelle Patry](https://www.linkedin.com/in/emmanuellepatry/) | Helping 250+ Community Managers and Social Media Managers develop their skills and marketing strategies. | `France`, `Saint-Cyr-sur-Mer` | `Social Media`, `Strategy`, `Community Management` |
 
 ## Softwares
 
