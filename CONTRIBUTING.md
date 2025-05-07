@@ -26,6 +26,7 @@ Some additional things to keep in mind:
 * Locations must be enclosed in an inline code block (using with backtick quotes `` ` ``) and separated by spaces;
 * Tags must be enclosed in an inline code block (using with backtick quotes `` ` ``) and separated by commas;
 * Tags should be relevant to the company's main features or focus areas;
+* Maximum of 3 tags per entry;
 * Both companies and locations are ordered alphabetically;
 * If a new category is required please provide an explanation in the commit message;
 * If a company would fit in multiple categories, only the one category that fits best must be selected.
