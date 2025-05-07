@@ -66,4 +66,7 @@ If you find something wrong or want to add another company, please [follow the r
 | Name | Description | Locations | Tags |
 | :------ | :---------- | :-------- | :--- |
 | [Paatch](https://www.paat.ch/) | Community platform for freelancers and remote workers, offering coworking spaces, coliving experiences, and AI-focused events. | `France` | `Freelancers`, `Remote Work`, `Coworking`, `Coliving`, `AI Events` |
+| [La Growth Machine Playground](https://playground.lagrowthmachine.com/) | Community forum for growth hackers and community builders, offering discussions, events, community playbooks, and contests in both English and French. | `France` | `Growth Hacking`, `Community Building`, `Events`, `Playbooks`, `Contests` |
+| [Growth Hacking France](https://www.growthhacking.fr/) | Community forum for growth hackers, featuring discussions on acquisition, automation, SEO, scraping, and various growth hacking techniques. | `France` | `Growth Hacking`, `Acquisition`, `Automation`, `SEO`, `Scraping` |
+| [Pragmatic Entrepreneurs Forum](https://forum.pragmaticentrepreneurs.com/) | Community forum for entrepreneurs focused on practical business growth and development strategies. | `France` | `Entrepreneurship`, `Business Growth`, `Development` |
 
