@@ -11,6 +11,7 @@ If you find something wrong or want to add another company, please [follow the r
 - [Freelances](#freelances)
 - [Softwares](#softwares)
 - [Communities](#communities)
+- [Newsletters](#newsletters)
 
 ## Agencies
 
