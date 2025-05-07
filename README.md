@@ -34,6 +34,7 @@ If you find something wrong or want to add another company, please [follow the r
 | [Arthur Battais](https://www.linkedin.com/in/arthurbattais/) | Discord expert since 2017, certified moderator, and CEO of FCA.gg. Specializes in building and managing Discord communities for major brands like Hugo Décrypte and Ligue 1. | `France`, `Paris` | `Discord`, `Community Management`, `Brand Communities` |
 | [Jules Palatin](https://www.linkedin.com/in/jules-palatin-discord/) | CEO of Netcord, a leading Discord agency that has supported over 130 clients including Louis Vuitton, PSG, and Universal Music. Specializes in Discord community creation, animation, and activation. | `France`, `Paris` | `Discord`, `Brand Communities`, `Agency` |
 | [Anne-Claire Lecat](https://www.linkedin.com/in/anne-claire-lecat-5240b126/) | Brand & Community Builder, Content & Communication Strategy expert. Founder of eeko podcast and Panache. Specializes in brand building and community development. | `Spain`, `Barcelona` | `Podcast`, `Community Development`, `Content Strategy` |
+| [Maëlys Silveira](https://www.linkedin.com/in/maelys-silveira/) | Community Builder & Creator of the podcast "On n'est pas tout·e seul·e". Helps impact organizations build and sustain communities to achieve their mission and goals. | `France` | `Community Building`, `Podcast`, `Impact Organizations` |
 
 ## Softwares
 
