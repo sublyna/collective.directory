@@ -11,13 +11,13 @@ If you find something wrong or want to add another company, please [follow the r
 - [Freelances](#freelances)
 - [Softwares](#softwares)
 - [Communities](#communities)
+
 ## Agencies
 
 | Company | Description | Locations | Tags |
 | :------ | :---------- | :-------- | :--- |
 | [Netcord](https://www.netcord.fr) | Netcord is a community building agency that helps companies build and grow their communities on Discord. | `France` | `Discord` |
 | [FCA](https://fca.gg/en) | FCA is a community building agency that helps companies build and grow their communities on Discord. | `France` | `Discord` |
-
 
 ## Freelances
 
@@ -59,7 +59,6 @@ If you find something wrong or want to add another company, please [follow the r
 | [TGmembership](https://tgmembership.com/) | Telegram bot for selling access to private channels and managing paid memberships. | `Cloud` | `Telegram`, `Access`, `Paid Memberships` |
 | [BotSubscription](https://botsubscription.com/) | Platform for managing paid access to Discord bots and premium features. | `Cloud` | `Discord`, `Bots`, `Paid Access` |
 | [Circle](https://circle.so/) | All-in-one community platform for creators to build branded spaces with courses, events, and member engagement features. | `Cloud` | `Community Platform`, `Creators`, `Branded Spaces` |
-
 
 ## Communities
 
