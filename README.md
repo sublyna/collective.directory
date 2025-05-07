@@ -19,6 +19,7 @@ If you find something wrong or want to add another company, please [follow the r
 | :------ | :---------- | :-------- | :--- |
 | [Netcord](https://www.netcord.fr) | Netcord is a community building agency that helps companies build and grow their communities on Discord. | `France` | `Discord` |
 | [FCA](https://fca.gg/en) | FCA is a community building agency that helps companies build and grow their communities on Discord. | `France` | `Discord` |
+| [Harmonie Solutions](https://harmonie.solutions/) | Discord agency specializing in custom server creation, redesign, and management. | `France`, `Marseille` | `Discord`, `Custom Development`, `Community Management` |
 
 ## Freelances
 
@@ -39,6 +40,7 @@ If you find something wrong or want to add another company, please [follow the r
 | [Emmanuelle Patry](https://www.linkedin.com/in/emmanuellepatry/) | Helping 250+ Community Managers and Social Media Managers develop their skills and marketing strategies. | `France`, `Saint-Cyr-sur-Mer` | `Social Media`, `Strategy`, `Community Management` |
 | [Quentin Berthommier](https://www.linkedin.com/in/quent1/) | Community Builder at Qonto, specializing in building multi-sided platforms and engaging with entrepreneurship ecosystems. Expert in community strategy and engagement for fintech and business communities. | `France`, `Paris` | `Community Building`, `Fintech`, `Entrepreneurship` |
 | [Marietta Combot](https://www.linkedin.com/in/marietta-combot-51146b10a/) | VC Platform Builder helping funds and accelerators build successful startups through community platforms, events, and business development. | `France`, `Paris` | `VC`, `Platform Building`, `Events` |
+| [Eva Roussel](https://www.linkedin.com/in/eva-roussel-discord-harmonie-solutions/) | Discord Builder & Developer specializing in custom Discord automation and development. | `France`, `Marseille` | `Discord`, `Development`, `Automation` |
 
 ## Softwares
 
@@ -81,7 +83,7 @@ If you find something wrong or want to add another company, please [follow the r
 | [Pragmatic Entrepreneurs Forum](https://forum.pragmaticentrepreneurs.com/) | Community forum for entrepreneurs focused on practical business growth and development strategies. | `France` | `Entrepreneurship`, `Business Growth`, `Development` |
 | [Slash FR](https://slash.fr.community/) | Largest French Discord community focused on Discord news, updates, and mutual support. Features include help channels, news updates, unique progression system, and innovative voice channels. | `France` | `Discord`, `Community Support`, `News` |
 | [Eeko Factory](https://www.eeko-factory.fr/) | All-in-one platform for podcast creators offering strategy, coaching, masterclasses, and community support. Helps podcasters increase visibility, engagement, and build an active audience. | `France` | `Podcast Strategist`, `Strategy`, `Community` |
-| [Communitips Discord](https://content.clement-leroux.com/communitips) | French Discord community for community builders to exchange on projects, ask questions, find work, and participate in monthly expert lives and articles. | `France` | `Community Building`, `Discord`,  |
+| [Communitips Discord](https://content.clement-leroux.com/communitips) | French Discord community for community builders to exchange on projects, ask questions, find work, and participate in monthly expert lives and articles. | `France` | `Community Building`, `Discord` |
 | [Qonto Community](https://community.qonto.com/fr) | Professional community platform for entrepreneurs and business leaders, featuring dedicated spaces for finance, growth, CSR, and more. | `France` | `Business`, `Finance`, `Accounting` |
 
 ## Newsletters
