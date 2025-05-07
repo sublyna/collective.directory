@@ -36,6 +36,7 @@ If you find something wrong or want to add another company, please [follow the r
 | [Anne-Claire Lecat](https://www.linkedin.com/in/anne-claire-lecat-5240b126/) | Brand & Community Builder, Content & Communication Strategy expert. Founder of eeko podcast and Panache. Specializes in brand building and community development. | `Spain`, `Barcelona` | `Podcast`, `Community Development`, `Content Strategy` |
 | [Maëlys Silveira](https://www.linkedin.com/in/maelys-silveira/) | Community Builder & Creator of the podcast "On n'est pas tout·e seul·e". Helps impact organizations build and sustain communities to achieve their mission and goals. | `France` | `Community Building`, `Podcast`, `Impact Organizations` |
 | [Emmanuelle Patry](https://www.linkedin.com/in/emmanuellepatry/) | Helping 250+ Community Managers and Social Media Managers develop their skills and marketing strategies. | `France`, `Saint-Cyr-sur-Mer` | `Social Media`, `Strategy`, `Community Management` |
+| [Quentin Berthommier](https://www.linkedin.com/in/quent1/) | Community Builder at Qonto, specializing in building multi-sided platforms and engaging with entrepreneurship ecosystems. Expert in community strategy and engagement for fintech and business communities. | `France`, `Paris` | `Community Building`, `Fintech`, `Entrepreneurship` |
 
 ## Softwares
 
@@ -79,6 +80,7 @@ If you find something wrong or want to add another company, please [follow the r
 | [Slash FR](https://slash.fr.community/) | Largest French Discord community focused on Discord news, updates, and mutual support. Features include help channels, news updates, unique progression system, and innovative voice channels. | `France` | `Discord`, `Community Support`, `News` |
 | [Eeko Factory](https://www.eeko-factory.fr/) | All-in-one platform for podcast creators offering strategy, coaching, masterclasses, and community support. Helps podcasters increase visibility, engagement, and build an active audience. | `France` | `Podcast`, `Strategy`, `Community` |
 | [Communitips](https://content.clement-leroux.com/communitips) | French Discord community for community builders to exchange on projects, ask questions, find work, and participate in monthly expert lives and articles. | `France` | `Community Building`, `Discord`, `Expert` |
+| [Qonto Community](https://community.qonto.com/fr) | Professional community platform for entrepreneurs and business leaders, featuring dedicated spaces for finance, growth, CSR, and women entrepreneurship. | `France` | `Business`, `Finance`, `Accounting` |
 
 ## Newsletters
 
