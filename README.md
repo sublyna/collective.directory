@@ -37,6 +37,7 @@ If you find something wrong or want to add another company, please [follow the r
 | [Maëlys Silveira](https://www.linkedin.com/in/maelys-silveira/) | Community Builder & Creator of the podcast "On n'est pas tout·e seul·e". Helps impact organizations build and sustain communities to achieve their mission and goals. | `France` | `Community Building`, `Podcast`, `Impact Organizations` |
 | [Emmanuelle Patry](https://www.linkedin.com/in/emmanuellepatry/) | Helping 250+ Community Managers and Social Media Managers develop their skills and marketing strategies. | `France`, `Saint-Cyr-sur-Mer` | `Social Media`, `Strategy`, `Community Management` |
 | [Quentin Berthommier](https://www.linkedin.com/in/quent1/) | Community Builder at Qonto, specializing in building multi-sided platforms and engaging with entrepreneurship ecosystems. Expert in community strategy and engagement for fintech and business communities. | `France`, `Paris` | `Community Building`, `Fintech`, `Entrepreneurship` |
+| [Marietta Combot](https://www.linkedin.com/in/marietta-combot-51146b10a/) | VC Platform Builder helping funds and accelerators build successful startups through community platforms, events, and business development. | `France`, `Paris` | `VC`, `Platform Building`, `Events` |
 
 ## Softwares
 
