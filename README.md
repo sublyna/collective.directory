@@ -80,7 +80,7 @@ If you find something wrong or want to add another company, please [follow the r
 | [Slash FR](https://slash.fr.community/) | Largest French Discord community focused on Discord news, updates, and mutual support. Features include help channels, news updates, unique progression system, and innovative voice channels. | `France` | `Discord`, `Community Support`, `News` |
 | [Eeko Factory](https://www.eeko-factory.fr/) | All-in-one platform for podcast creators offering strategy, coaching, masterclasses, and community support. Helps podcasters increase visibility, engagement, and build an active audience. | `France` | `Podcast`, `Strategy`, `Community` |
 | [Communitips](https://content.clement-leroux.com/communitips) | French Discord community for community builders to exchange on projects, ask questions, find work, and participate in monthly expert lives and articles. | `France` | `Community Building`, `Discord`, `Expert` |
-| [Qonto Community](https://community.qonto.com/fr) | Professional community platform for entrepreneurs and business leaders, featuring dedicated spaces for finance, growth, CSR, and women entrepreneurship. | `France` | `Business`, `Finance`, `Accounting` |
+| [Qonto Community](https://community.qonto.com/fr) | Professional community platform for entrepreneurs and business leaders, featuring dedicated spaces for finance, growth, CSR, and more. | `France` | `Business`, `Finance`, `Accounting`, `Growth`, `CSR` |
 
 ## Newsletters
 
