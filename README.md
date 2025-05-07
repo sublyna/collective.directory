@@ -26,6 +26,8 @@ If you find something wrong or want to add another company, please [follow the r
 | [Clément Le Roux](https://www.linkedin.com/in/lerouxclement) | Community Builder Freelance | `France`, `La Rochelle` | `Community` |
 | [Eloïse Barrège](https://www.linkedin.com/in/eloisebarrege/) | Brand & Communities Lead | `France`, `Paris` | `Community`, `Brand` |
 | [Noémie Kempf](https://www.linkedin.com/in/kempfnoemie/) | Expert in storytelling & community building | `France`, `Strasbourg` | `Community`, `Storytelling` |
+| [Julien Lagneaux](https://www.linkedin.com/in/julienlagneaux/) | Community Builder & Social Media Manager freelance, helping brands become references among their fans. Founder of Game Zone. | `France`, `Nantes` | `Community`, `Social Media`, `Gaming` |
+| [Clément Moesan](https://www.linkedin.com/in/clement-moesan/) | Community Builder Freelance helping brands and infopreneurs convert and create buzz around their products through solid and active communities. | `France`, `Paris`| `Community`, `Brands` |
 
 ## Softwares
 
