@@ -46,45 +46,45 @@ If you find something wrong or want to add another company, please [follow the r
 
 | Name | Description | Locations | Tags |
 | :------ | :---------- | :-------- | :--- |
-| [Sublyna](https://www.sublyna.com/) | All-in-one platform to monetize Discord and Telegram communities with automated access management, landing pages, and analytics. | `Cloud` | `Discord`, `Telegram` |
-| [Gumroad](https://gumroad.com/) | Platform for creators to sell digital products, memberships, and courses directly to their audience. | `Cloud` | `Digital Products`, `Memberships`, `Courses` |
-| [Sublaunch](https://sublaunch.com/) | Subscription management platform for Discord communities with automated payments and access control. | `Cloud` | `Discord`, `Subscriptions`, `Access Control` |
-| [Stripe](https://stripe.com/) | Complete payment infrastructure for online businesses, supporting multiple payment methods and currencies. | `Cloud` | `Payment Infrastructure`, `Multiple Payment Methods`, `Currencies` |
-| [Whop](https://whop.com/) | Marketplace for digital products and services with built-in payment processing and access management. | `Cloud` | `Digital Products`, `Services`, `Access Management` |
-| [Skool](https://skool.com/) | All-in-one platform for creating and selling online courses with community features and gamification. | `Cloud` | `Online Courses`, `Community`, `Gamification` |
-| [Substack](https://substack.com/) | Newsletter platform that helps writers monetize their content through paid subscriptions. | `Cloud` | `Newsletters`, `Monetization`, `Subscriptions` |
-| [LaunchPass](https://launchpass.com/) | Discord monetization platform for community owners to sell access to private servers. | `Cloud` | `Discord`, `Monetization`, `Private Servers` |
-| [Upgrade.chat](https://upgrade.chat/) | Discord bot for selling digital products and managing paid memberships in your server. | `Cloud` | `Discord`, `Digital Products`, `Paid Memberships` |
-| [Memberful](https://memberful.com/) | Membership platform for content creators to sell subscriptions and manage member access. | `Cloud` | `Subscriptions`, `Member Access` |
-| [Patreon](https://patreon.com/) | Membership platform for creators to build relationships with their audience through exclusive content. | `Cloud` | `Memberships`, `Audience Relationships` |
-| [Accessdock](https://accessdock.com/) | Discord bot for managing paid memberships and selling access to private channels. | `Cloud` | `Discord`, `Paid Memberships`, `Access Management` |
-| [Mighty Networks](https://mighty.com/) | Platform for creating branded communities with courses, events, and member spaces. | `Cloud` | `Branded Communities`, `Courses`, `Events` |
-| [Mee6](https://mee6.xyz/) | Popular Discord bot with premium features for moderation, welcome messages, and custom commands. | `Cloud` | `Discord`, `Moderation`, `Custom Commands` |
-| [Discord Subscription Bot](https://discord.com/) | Official Discord bot for managing server subscriptions and premium features. | `Cloud` | `Discord`, `Subscriptions`, `Premium Features` |
-| [MemberSpace](https://memberspace.com/) | WordPress plugin for creating member-only content and selling digital products. | `Cloud` | `WordPress`, `Member-Only Content`, `Digital Products` |
-| [Inviterobot](https://inviterobot.com/) | Discord bot for managing invites, tracking growth, and monetizing your server. | `Cloud` | `Discord`, `Monetization` |
-| [Squareup](https://squareup.com/) | Point-of-sale system for businesses to accept payments in-store and online. | `Cloud` | `Point-of-Sale`, `Businesses`, `Payments` |
-| [SubscribeStar](https://subscribestar.com/) | Alternative to Patreon for content creators to receive support from their audience. | `Cloud` | `Alternative`, `Patreon`, `Content Creators` |
-| [Squarespace](https://squarespace.com/) | Website builder with built-in e-commerce and membership features. | `Cloud` | `Website Builder`, `E-commerce`, `Memberships` |
-| [InviteMember](https://invitemember.com/) | Discord bot for selling access to private channels and managing paid memberships. | `Cloud` | `Discord`, `Access`, `Paid Memberships` |
-| [TGmembership](https://tgmembership.com/) | Telegram bot for selling access to private channels and managing paid memberships. | `Cloud` | `Telegram`, `Access`, `Paid Memberships` |
-| [BotSubscription](https://botsubscription.com/) | Platform for managing paid access to Discord bots and premium features. | `Cloud` | `Discord`, `Bots`, `Paid Access` |
-| [Circle](https://circle.so/) | All-in-one community platform for creators to build branded spaces with courses, events, and member engagement features. | `Cloud` | `Community Platform`, `Creators`, `Branded Spaces` |
-| [Conquest](https://useconquest.com/) | Community analytics platform that helps track, measure and prove community impact. Features include member activity tracking, engagement insights, and data-driven decision making tools. | `Cloud` | `Analytics`, `Data-Driven`, `Member Tracking` |
-| [icon](https://www.iconmeetings.io/) | All-in-one community platform that aggregates Discord, WhatsApp, Meetup, Eventbrite, Slack, and Circle. Features include event management, member engagement, monetization, and AI-powered assistant (Meety) for cross-platform communication. | `Cloud` | `Community Platform`, `Event Management`, `Monetization` |
+| [Sublyna](https://www.sublyna.com/) | Monetize Discord and Telegram communities with automated access management, landing pages, and analytics. Perfect for community owners. | `Cloud` | `Discord`, `Telegram` |
+| [Gumroad](https://gumroad.com/) | Sell digital products, memberships, and courses directly to your audience. Trusted by thousands of creators worldwide. | `Cloud` | `Digital Products`, `Memberships`, `Courses` |
+| [Sublaunch](https://sublaunch.com/) | Manage Discord subscriptions with automated payments and access control. Streamline your community monetization. | `Cloud` | `Discord`, `Subscriptions`, `Access Control` |
+| [Stripe](https://stripe.com/) | Complete payment infrastructure supporting multiple payment methods and currencies. Powering millions of businesses. | `Cloud` | `Payment Infrastructure`, `Multiple Payment Methods`, `Currencies` |
+| [Whop](https://whop.com/) | Digital marketplace with seamless payment processing and access management. Perfect for digital products and services. | `Cloud` | `Digital Products`, `Services`, `Access Management` |
+| [Skool](https://skool.com/) | Create and sell online courses with built-in community features and gamification. Engage your students effectively. | `Cloud` | `Online Courses`, `Community`, `Gamification` |
+| [Substack](https://substack.com/) | Newsletter platform helping writers monetize content through paid subscriptions. Build your audience and revenue. | `Cloud` | `Newsletters`, `Monetization`, `Subscriptions` |
+| [LaunchPass](https://launchpass.com/) | Discord monetization platform for selling access to private servers. Grow your community revenue. | `Cloud` | `Discord`, `Monetization`, `Private Servers` |
+| [Upgrade.chat](https://upgrade.chat/) | Discord bot for selling digital products and managing paid memberships. Perfect for community monetization. | `Cloud` | `Discord`, `Digital Products`, `Paid Memberships` |
+| [Memberful](https://memberful.com/) | Sell subscriptions and manage member access with ease. Trusted by content creators worldwide. | `Cloud` | `Subscriptions`, `Member Access` |
+| [Patreon](https://patreon.com/) | Build relationships with your audience through exclusive content. Join millions of creators. | `Cloud` | `Memberships`, `Audience Relationships` |
+| [Accessdock](https://accessdock.com/) | Discord bot for managing paid memberships and private channel access. Streamline your community. | `Cloud` | `Discord`, `Paid Memberships`, `Access Management` |
+| [Mighty Networks](https://mighty.com/) | Create branded communities with courses and events. Build your own social network. | `Cloud` | `Branded Communities`, `Courses`, `Events` |
+| [Mee6](https://mee6.xyz/) | Popular Discord bot with moderation, welcome messages, and custom commands. Trusted by millions. | `Cloud` | `Discord`, `Moderation`, `Custom Commands` |
+| [Discord Subscription Bot](https://discord.com/) | Official bot for managing server subscriptions and premium features. Enhance your Discord server. | `Cloud` | `Discord`, `Subscriptions`, `Premium Features` |
+| [MemberSpace](https://memberspace.com/) | WordPress plugin for creating member-only content and selling digital products. Secure and easy to use. | `Cloud` | `WordPress`, `Member-Only Content`, `Digital Products` |
+| [Inviterobot](https://inviterobot.com/) | Discord bot for managing invites and server monetization. Grow your community effectively. | `Cloud` | `Discord`, `Monetization` |
+| [Squareup](https://squareup.com/) | Point-of-sale system for in-store and online payments. Trusted by businesses worldwide. | `Cloud` | `Point-of-Sale`, `Businesses`, `Payments` |
+| [SubscribeStar](https://subscribestar.com/) | Patreon alternative for content creators. Receive support from your audience directly. | `Cloud` | `Alternative`, `Patreon`, `Content Creators` |
+| [Squarespace](https://squarespace.com/) | Website builder with e-commerce and membership features. Create your online presence. | `Cloud` | `Website Builder`, `E-commerce`, `Memberships` |
+| [InviteMember](https://invitemember.com/) | Discord bot for private channel access and paid memberships. Monetize your community. | `Cloud` | `Discord`, `Access`, `Paid Memberships` |
+| [TGmembership](https://tgmembership.com/) | Telegram bot for private channel access and paid memberships. Grow your Telegram community. | `Cloud` | `Telegram`, `Access`, `Paid Memberships` |
+| [BotSubscription](https://botsubscription.com/) | Platform for paid Discord bot access and premium features. Enhance your server capabilities. | `Cloud` | `Discord`, `Bots`, `Paid Access` |
+| [Circle](https://circle.so/) | Community platform for branded spaces with courses and events. Build your community hub. | `Cloud` | `Community Platform`, `Creators`, `Branded Spaces` |
+| [Conquest](https://useconquest.com/) | Analytics platform for tracking community impact and engagement. Make data-driven decisions. | `Cloud` | `Analytics`, `Data-Driven`, `Member Tracking` |
+| [icon](https://www.iconmeetings.io/) | Community platform aggregating Discord, WhatsApp, Meetup, Eventbrite, Slack, and Circle with AI assistant. | `Cloud` | `Community Platform`, `Event Management`, `Monetization` |
 
 ## Communities
 
 | Name | Description | Locations | Tags |
 | :------ | :---------- | :-------- | :--- |
-| [Paatch](https://www.paat.ch/) | Community platform for freelancers and remote workers, offering coworking spaces, coliving experiences, and AI-focused events. | `France` | `Freelancers`, `Remote Work`, `Coworking` |
-| [La Growth Machine Playground](https://playground.lagrowthmachine.com/) | Community forum for growth hackers and community builders, offering discussions, events, community playbooks, and contests in both English and French. | `France` | `Growth Hacking`, `Playbooks` |
-| [Growth Hacking France](https://www.growthhacking.fr/) | Community forum for growth hackers, featuring discussions on acquisition, automation, SEO, scraping, and various growth hacking techniques. | `France` | `Growth Hacking`, `Automation`, `Scraping` |
-| [Pragmatic Entrepreneurs Forum](https://forum.pragmaticentrepreneurs.com/) | Community forum for entrepreneurs focused on practical business growth and development strategies. | `France` | `Entrepreneurship`, `Business Growth`, `Development` |
-| [Slash FR](https://slash.fr.community/) | Largest French Discord community focused on Discord news, updates, and mutual support. Features include help channels, news updates, unique progression system, and innovative voice channels. | `France` | `Discord`, `Community Support`, `News` |
-| [Eeko Factory](https://www.eeko-factory.fr/) | All-in-one platform for podcast creators offering strategy, coaching, masterclasses, and community support. Helps podcasters increase visibility, engagement, and build an active audience. | `France` | `Podcast Strategist`, `Strategy`, `Community` |
-| [Communitips Discord](https://content.clement-leroux.com/communitips) | French Discord community for community builders to exchange on projects, ask questions, find work, and participate in monthly expert lives and articles. | `France` | `Community Building`, `Discord` |
-| [Qonto Community](https://community.qonto.com/fr) | Professional community platform for entrepreneurs and business leaders, featuring dedicated spaces for finance, growth, CSR, and more. | `France` | `Business`, `Finance`, `Accounting` |
+| [Paatch](https://www.paat.ch/) | Platform connecting freelancers and remote workers through coworking spaces, coliving experiences, and AI-focused events. | `France` | `Freelancers`, `Remote Work`, `Coworking` |
+| [La Growth Machine Playground](https://playground.lagrowthmachine.com/) | Community forum for growth hackers and community builders, featuring discussions, events, and playbooks in English and French. | `France` | `Growth Hacking`, `Playbooks` |
+| [Growth Hacking France](https://www.growthhacking.fr/) | French community forum focused on growth hacking techniques, including acquisition, automation, SEO, and scraping strategies. | `France` | `Growth Hacking`, `Automation`, `Scraping` |
+| [Pragmatic Entrepreneurs Forum](https://forum.pragmaticentrepreneurs.com/) | Community forum for entrepreneurs sharing practical business growth strategies and development insights. | `France` | `Entrepreneurship`, `Business Growth`, `Development` |
+| [Slash FR](https://slash.fr.community/) | Largest French Discord community focused on Discord news and support, featuring a unique progression system and innovative voice channels. | `France` | `Discord`, `Community Support`, `News` |
+| [Eeko Factory](https://www.eeko-factory.fr/) | Platform for podcast creators offering strategy, coaching, and masterclasses to build and engage podcast audiences. | `France` | `Podcast Strategist`, `Strategy`, `Community` |
+| [Communitips Discord](https://content.clement-leroux.com/communitips) | French community for builders to exchange on projects, find work opportunities, and access monthly expert sessions and articles. | `France` | `Community Building`, `Discord` |
+| [Qonto Community](https://community.qonto.com/fr) | Professional network for entrepreneurs and business leaders with dedicated spaces for finance, growth, and CSR discussions. | `France` | `Business`, `Finance`, `Accounting` |
 
 ## Newsletters
 
