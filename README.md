@@ -21,7 +21,7 @@ If you find something wrong or want to add another company, please [follow the r
 | [FCA](https://fca.gg/en) | FCA is a community building agency that helps companies build and grow their communities on Discord. | `France` | `Discord` |
 | [Harmonie Solutions](https://harmonie.solutions/) | Discord agency specializing in custom server creation, redesign, and management. | `France` | `Discord`, `Custom Development`, `Community Management` |
 | [Orbital Projects](https://orbitalprojects.io/) | Marketing collective specializing in community building, social media management, and content creation for gaming and web3 industries. | `France` | `Gaming`, `Web3`, `Community Building` |
-
+| [Zoaa](https://www.zoaa.io/) | Agency specializing in Discord community creation and management, offering professional setup, community management, custom bot development, and strategic consulting services. | `United Kingdom` | `Discord`, `Community Management`, `Custom Bot Development`, `Strategic Consulting` |
 ## Freelances
 
 | Name | Description | Locations | Tags |
@@ -43,7 +43,9 @@ If you find something wrong or want to add another company, please [follow the r
 | [Quentin Morin](https://www.linkedin.com/in/quentinmorin/) | Community Strategist specializing in gaming and tech. Founder of Orbital Projects, an agency focused on community building, social media management, and content creation in gaming and web3. | `France`, `Lyon` | `Gaming`, `Web3`, `Community Strategy` |
 | [Marietta Combot](https://www.linkedin.com/in/marietta-combot-51146b10a/) | VC Platform Builder helping funds and accelerators build successful startups through community platforms, events, and business development. | `France`, `Paris` | `VC`, `Platform Building`, `Events` |
 | [Eva Roussel](https://www.linkedin.com/in/eva-roussel-discord-harmonie-solutions/) | Discord Builder & Developer specializing in custom Discord automation and development. | `France`, `Marseille` | `Discord`, `Development`, `Automation` |
-
+| [Discomm - Sean M](https://www.discomm.cc/) | Discord community management, server setup & audits, consulting. | `United States` | `Discord`, `Setup`, `Audits`, `Consulting` |
+| [Lucas Gervraud](https://www.linkedin.com/in/lucas-gervraud-407999226/) | Community Manager freelance since July 2022 with 6+ years of expertise in Discord: server creation & management, event organization, moderator recruitment & training, permissions governance, and monthly reporting. | `France`, `Nouvelle-Aquitaine`, `Saujon` | `Discord`, `Community Management`, `Freelance` |
+| [Patrick Ploenes](https://www.linkedin.com/in/patrick-ploenes-980b59a4/) | Freelance Moderator & Community Manager (Discord & Telegram) | `United Kingdom`, `Truro` | `Discord`, `Telegram`, `Moderation`, `Community Management` |
 ## Softwares
 
 | Name | Description | Locations | Tags |
