@@ -19,7 +19,8 @@ If you find something wrong or want to add another company, please [follow the r
 | :------ | :---------- | :-------- | :--- |
 | [Netcord](https://www.netcord.fr) | Netcord is a community building agency that helps companies build and grow their communities on Discord. | `France` | `Discord` |
 | [FCA](https://fca.gg/en) | FCA is a community building agency that helps companies build and grow their communities on Discord. | `France` | `Discord` |
-| [Harmonie Solutions](https://harmonie.solutions/) | Discord agency specializing in custom server creation, redesign, and management. | `France`, `Marseille` | `Discord`, `Custom Development`, `Community Management` |
+| [Harmonie Solutions](https://harmonie.solutions/) | Discord agency specializing in custom server creation, redesign, and management. | `France` | `Discord`, `Custom Development`, `Community Management` |
+| [Orbital Projects](https://orbitalprojects.io/) | Marketing collective specializing in community building, social media management, and content creation for gaming and web3 industries. | `France` | `Gaming`, `Web3`, `Community Building` |
 
 ## Freelances
 
@@ -39,6 +40,7 @@ If you find something wrong or want to add another company, please [follow the r
 | [Maëlys Silveira](https://www.linkedin.com/in/maelys-silveira/) | Community Builder & Creator of the podcast "On n'est pas tout·e seul·e". Helps impact organizations build and sustain communities to achieve their mission and goals. | `France` | `Community Building`, `Podcast Strategist`, `Impact Organizations` |
 | [Emmanuelle Patry](https://www.linkedin.com/in/emmanuellepatry/) | Helping 250+ Community Managers and Social Media Managers develop their skills and marketing strategies. | `France`, `Saint-Cyr-sur-Mer` | `Social Media`, `Strategy`, `Community Management` |
 | [Quentin Berthommier](https://www.linkedin.com/in/quent1/) | Community Builder at Qonto, specializing in building multi-sided platforms and engaging with entrepreneurship ecosystems. Expert in community strategy and engagement for fintech and business communities. | `France`, `Paris` | `Community Building`, `Fintech`, `Entrepreneurship` |
+| [Quentin Morin](https://www.linkedin.com/in/quentinmorin/) | Community Strategist specializing in gaming and tech. Founder of Orbital Projects, an agency focused on community building, social media management, and content creation in gaming and web3. | `France`, `Lyon` | `Gaming`, `Web3`, `Community Strategy` |
 | [Marietta Combot](https://www.linkedin.com/in/marietta-combot-51146b10a/) | VC Platform Builder helping funds and accelerators build successful startups through community platforms, events, and business development. | `France`, `Paris` | `VC`, `Platform Building`, `Events` |
 | [Eva Roussel](https://www.linkedin.com/in/eva-roussel-discord-harmonie-solutions/) | Discord Builder & Developer specializing in custom Discord automation and development. | `France`, `Marseille` | `Discord`, `Development`, `Automation` |
 
