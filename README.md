@@ -22,6 +22,7 @@ If you find something wrong or want to add another company, please [follow the r
 | [Harmonie Solutions](https://harmonie.solutions/) | Discord agency specializing in custom server creation, redesign, and management. | `France` | `Discord`, `Custom Development`, `Community Management` |
 | [Orbital Projects](https://orbitalprojects.io/) | Marketing collective specializing in community building, social media management, and content creation for gaming and web3 industries. | `France` | `Gaming`, `Web3`, `Community Building` |
 | [Zoaa](https://www.zoaa.io/) | Agency specializing in Discord community creation and management, offering professional setup, community management, custom bot development, and strategic consulting services. | `United Kingdom` | `Discord`, `Community Management`, `Custom Bot Development`, `Strategic Consulting` |
+
 ## Freelances
 
 | Name | Description | Locations | Tags |
