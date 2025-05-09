@@ -20,7 +20,7 @@ Si encuentra algo incorrecto o desea agregar otra empresa, por favor [siga las r
 | [FCA](https://fca.gg/en) | FCA es una agencia de construcción de comunidades que ayuda a las empresas a construir y hacer crecer sus comunidades en Discord. | `Francia` | `Discord` |
 | [Harmonie Solutions](https://harmonie.solutions/) | Agencia Discord especializada en creación personalizada de servidores, rediseño y gestión. | `Francia` | `Discord`, `Desarrollo Personalizado`, `Gestión de Comunidad` |
 | [Orbital Projects](https://orbitalprojects.io/) | Colectivo de marketing especializado en construcción de comunidades, gestión de redes sociales y creación de contenido para las industrias de gaming y web3. | `Francia` | `Gaming`, `Web3`, `Construcción de Comunidad` |
-| [Zoaa](https://www.zoaa.io/) | Agencia especializada en creación y gestión de comunidades Discord, ofreciendo configuración profesional, gestión de comunidad, desarrollo de bots personalizados y servicios de consultoría estratégica. | `Reino Unido` | `Discord`, `Gestión de Comunidad`, `Desarrollo de Bots Personalizados`, `Consultoría Estratégica` |
+| [Zoaa](https://www.zoaa.io/) | Agencia especializada en creación y gestión de comunidades Discord, ofreciendo configuración profesional, gestión de comunidad, desarrollo de bots personalizados y servicios de consultoría estratégica. | `Reino Unido` | `Discord`, `Gestión de Comunidad`, `Desarrollo de Bots` |
 
 ## Freelancers
 
@@ -43,9 +43,9 @@ Si encuentra algo incorrecto o desea agregar otra empresa, por favor [siga las r
 | [Quentin Morin](https://www.linkedin.com/in/quentinmorin/) | Estratega Comunitario especializado en gaming y tecnología. Fundador de Orbital Projects, una agencia enfocada en construcción de comunidades, gestión de redes sociales y creación de contenido en gaming y web3. | `Francia`, `Lyon` | `Gaming`, `Web3`, `Estrategia Comunitario` |
 | [Marietta Combot](https://www.linkedin.com/in/marietta-combot-51146b10a/) | VC Platform Builder ayudando a fondos y aceleradoras a construir startups exitosas a través de plataformas comunitarias, eventos y desarrollo de negocios. | `Francia`, `París` | `VC`, `Construcción de Plataforma`, `Eventos` |
 | [Eva Roussel](https://www.linkedin.com/in/eva-roussel-discord-harmonie-solutions/) | Discord Builder y Desarrolladora especializada en automatización y desarrollo personalizado de Discord. | `Francia`, `Marsella` | `Discord`, `Desarrollo`, `Automatización` |
-| [Discomm - Sean M](https://www.discomm.cc/) | Gestión de comunidad Discord, configuración y auditorías de servidor, consultoría. | `Estados Unidos` | `Discord`, `Configuración`, `Auditorías`, `Consultoría` |
+| [Discomm - Sean M](https://www.discomm.cc/) | Gestión de comunidad Discord, configuración y auditorías de servidor, consultoría. | `Estados Unidos` | `Discord`, `Configuración`, `Consultoría` |
 | [Lucas Gervraud](https://www.linkedin.com/in/lucas-gervraud-407999226/) | Community Manager freelance desde julio 2022 con más de 6 años de experiencia en Discord: creación y gestión de servidores, organización de eventos, reclutamiento y formación de moderadores, gobernanza de permisos e informes mensuales. | `Francia`, `Nouvelle-Aquitaine`, `Saujon` | `Discord`, `Gestión de Comunidad`, `Freelance` |
-| [Patrick Ploenes](https://www.linkedin.com/in/patrick-ploenes-980b59a4/) | Moderador y Community Manager Freelance (Discord y Telegram) | `Reino Unido`, `Truro` | `Discord`, `Telegram`, `Moderación`, `Gestión de Comunidad` |
+| [Patrick Ploenes](https://www.linkedin.com/in/patrick-ploenes-980b59a4/) | Moderador y Community Manager Freelance (Discord y Telegram) | `Reino Unido`, `Truro` | `Discord`, `Telegram`, `Gestión de Comunidad` |
 
 ## Software
 
