@@ -20,7 +20,8 @@
 | [FCA](https://fca.gg/en) | FCA是一家社区建设机构，帮助企业建立和发展他们的Discord社区。 | `法国` | `Discord` |
 | [Harmonie Solutions](https://harmonie.solutions/) | 专注于创建定制服务器、重新设计和管理的Discord机构。 | `法国` | `Discord`, `定制开发`, `社区管理` |
 | [Orbital Projects](https://orbitalprojects.io/) | 专注于游戏和web3行业的社区建设、社交媒体管理和内容创作的营销集体。 | `法国` | `游戏`, `Web3`, `社区建设` |
-| [Zoaa](https://www.zoaa.io/) | 专注于创建和管理Discord社区的机构，提供专业配置、社区管理、定制机器人开发和战略咨询服务。 | `英国` | `Discord`, `社区管理`, `定制机器人开发`, `战略咨询` |
+| [Zoaa](https://www.zoaa.io/) | 专注于Discord社区创建和管理，提供专业设置、社区管理、定制Bot开发和战略咨询服务的代理机构。 | `英国` | `Discord`, `社区管理`, `定制开发`, `战略咨询` |
+| [Favvey](https://favvey.com/) | 专注于为Z世代和Alpha世代打造沉浸式品牌体验的游戏营销代理机构。提供游戏营销活动、数字社区建设及Roblox、Fortnite、Minecraft等平台的定制游戏体验。 | `法国` | `游戏`, `社区建设`, `数字营销` |
 
 ## 自由职业者
 
@@ -45,7 +46,8 @@
 | [Eva Roussel](https://www.linkedin.com/in/eva-roussel-discord-harmonie-solutions/) | Discord建设者和开发者，专注于自动化和定制Discord开发。 | `法国`, `马赛` | `Discord`, `开发`, `自动化` |
 | [Discomm - Sean M](https://www.discomm.cc/) | Discord社区管理、服务器配置和审计、咨询。 | `美国` | `Discord`, `配置`, `审计`, `咨询` |
 | [Lucas Gervraud](https://www.linkedin.com/in/lucas-gervraud-407999226/) | 自2022年7月起的社区经理自由职业者，拥有超过6年的Discord经验：创建和管理服务器、组织活动、招聘和培训版主、权限管理和月度报告。 | `法国`, `Nouvelle-Aquitaine`, `Saujon` | `Discord`, `社区管理`, `自由职业者` |
-| [Patrick Ploenes](https://www.linkedin.com/in/patrick-ploenes-980b59a4/) | 版主和社区经理自由职业者（Discord和Telegram） | `英国`, `Truro` | `Discord`, `Telegram`, `版主`, `社区管理` |
+| [Patrick Ploenes](https://www.linkedin.com/in/patrick-ploenes-980b59a4/) | Discord和Telegram社区管理与审核自由职业者 | `英国`, `特鲁罗` | `Discord`, `Telegram`, `社区管理`, `审核` |
+| [Axel Bierne](https://www.linkedin.com/in/axel-bierne/) | 专注于游戏社区的社区建设者，为品牌打造个性化体验。拥有3000万+玩家和40万+ Discord成员经验，多次获得国际奖项。 | `法国`, `巴黎` | `游戏`, `Discord`, `社区建设` |
 
 ## 软件
 

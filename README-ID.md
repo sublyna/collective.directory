@@ -21,6 +21,7 @@ Jika Anda menemukan informasi yang tidak akurat atau ingin menambahkan perusahaa
 | [Harmonie Solutions](https://harmonie.solutions/) | Agensi Discord khusus dalam pembuatan server kustom, desain ulang, dan manajemen. | `Prancis` | `Discord`, `pengembangan kustom`, `manajemen komunitas` |
 | [Orbital Projects](https://orbitalprojects.io/) | Kelompok pemasaran yang berspesialisasi dalam pembangunan komunitas, manajemen media sosial, dan pembuatan konten untuk industri game dan web3. | `Prancis` | `Game`, `Web3`, `pembangunan komunitas` |
 | [Zoaa](https://www.zoaa.io/) | Agensi yang berspesialisasi dalam pembuatan dan manajemen komunitas Discord, menawarkan konfigurasi profesional, manajemen komunitas, pengembangan bot kustom, dan layanan konsultasi strategis. | `Inggris Raya` | `Discord`, `manajemen komunitas`, `pengembangan bot kustom`, `konsultasi strategis` |
+| [Favvey](https://favvey.com/) | Agensi pemasaran gaming yang berspesialisasi dalam pengalaman merek imersif untuk GenZ dan GenAlpha. Membuat kampanye gaming, membangun komunitas digital, dan mengembangkan pengalaman game kustom di Roblox, Fortnite, dan Minecraft. | `Prancis` | `Game`, `pembangunan komunitas`, `pemasaran digital` |
 
 ## Freelancer
 
@@ -46,6 +47,7 @@ Jika Anda menemukan informasi yang tidak akurat atau ingin menambahkan perusahaa
 | [Discomm - Sean M](https://www.discomm.cc/) | Manajemen komunitas Discord, konfigurasi dan audit server, konsultasi. | `Amerika Serikat` | `Discord`, `konfigurasi`, `audit`, `konsultasi` |
 | [Lucas Gervraud](https://www.linkedin.com/in/lucas-gervraud-407999226/) | Manajer komunitas independen sejak Juli 2022 dengan lebih dari 6 tahun pengalaman di Discord: pembuatan dan manajemen server, pengorganisasian acara, perekrutan dan pelatihan moderator, manajemen izin dan laporan bulanan. | `Prancis`, `Nouvelle-Aquitaine`, `Saujon` | `Discord`, `manajemen komunitas`, `independen` |
 | [Patrick Ploenes](https://www.linkedin.com/in/patrick-ploenes-980b59a4/) | Moderator dan manajer komunitas independen (Discord dan Telegram) | `Inggris Raya`, `Truro` | `Discord`, `Telegram`, `moderasi`, `manajemen komunitas` |
+| [Axel Bierne](https://www.linkedin.com/in/axel-bierne/) | Community Builder yang berspesialisasi dalam komunitas gaming, menciptakan pengalaman personalisasi untuk merek. Pengalaman dengan 30M+ pemain dan 400.000+ anggota Discord. Pemenang beberapa penghargaan internasional. | `Prancis`, `Paris` | `Game`, `Discord`, `pembangunan komunitas` |
 
 ## Perangkat Lunak
 

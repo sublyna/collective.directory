@@ -21,6 +21,7 @@ Si vous trouvez quelque chose d'incorrect ou souhaitez ajouter une autre entrepr
 | [Harmonie Solutions](https://harmonie.solutions/) | Agence Discord spécialisée dans la création de serveurs personnalisés, la refonte et la gestion. | `France` | `Discord`, `Développement Personnalisé`, `Gestion de Communauté` |
 | [Orbital Projects](https://orbitalprojects.io/) | Collectif marketing spécialisé dans la construction de communautés, la gestion des réseaux sociaux et la création de contenu pour les industries du gaming et du web3. | `France` | `Gaming`, `Web3`, `Construction de Communauté` |
 | [Zoaa](https://www.zoaa.io/) | Agence spécialisée dans la création et la gestion de communautés Discord, proposant une configuration professionnelle, la gestion de communauté, le développement de bots personnalisés et des services de conseil stratégique. | `Royaume-Uni` | `Discord`, `Gestion de Communauté`, `Développement de Bots` |
+| [Favvey](https://favvey.com/) | Agence de marketing gaming spécialisée dans les expériences de marque immersives pour la GenZ et la GenAlpha. Crée des campagnes gaming, construit des communautés digitales et développe des expériences de jeu personnalisées sur Roblox, Fortnite et Minecraft. | `France` | `Gaming`, `Construction de Communauté`, `Marketing Digital` |
 
 ## Freelances
 
@@ -46,6 +47,7 @@ Si vous trouvez quelque chose d'incorrect ou souhaitez ajouter une autre entrepr
 | [Discomm - Sean M](https://www.discomm.cc/) | Gestion de communauté Discord, configuration & audits de serveur, conseil. | `États-Unis` | `Discord`, `Configuration`, `Conseil` |
 | [Lucas Gervraud](https://www.linkedin.com/in/lucas-gervraud-407999226/) | Community Manager freelance depuis juillet 2022 avec plus de 6 ans d'expertise en Discord : création & gestion de serveurs, organisation d'événements, recrutement & formation de modérateurs, gouvernance des permissions et rapports mensuels. | `France`, `Nouvelle-Aquitaine`, `Saujon` | `Discord`, `Gestion de Communauté`, `Freelance` |
 | [Patrick Ploenes](https://www.linkedin.com/in/patrick-ploenes-980b59a4/) | Modérateur & Community Manager Freelance (Discord & Telegram) | `Royaume-Uni`, `Truro` | `Discord`, `Telegram`, `Gestion de Communauté` |
+| [Axel Bierne](https://www.linkedin.com/in/axel-bierne/) | Community Builder spécialisé dans les communautés gaming, créant des expériences personnalisées pour les marques. Expérience avec plus de 30M de joueurs et 400 000+ membres Discord. Lauréat de plusieurs prix internationaux. | `France`, `Paris` | `Gaming`, `Discord`, `Construction de Communauté` |
 
 ## Logiciels
 
@@ -63,36 +65,4 @@ Si vous trouvez quelque chose d'incorrect ou souhaitez ajouter une autre entrepr
 | [Memberful](https://memberful.com/) | Vendez des abonnements et gérez l'accès des membres facilement. Approuvé par les créateurs de contenu du monde entier. | `Cloud` | `Abonnements`, `Accès Membres` |
 | [Patreon](https://patreon.com/) | Construisez des relations avec votre audience via du contenu exclusif. Rejoignez des millions de créateurs. | `Cloud` | `Abonnements`, `Relations avec l'Audience` |
 | [Accessdock](https://accessdock.com/) | Bot Discord pour gérer les abonnements payants et l'accès aux canaux privés. Simplifiez votre communauté. | `Cloud` | `Discord`, `Abonnements Payants`, `Gestion d'Accès` |
-| [Mighty Networks](https://mighty.com/) | Créez des communautés de marque avec des cours et des événements. Construisez votre propre réseau social. | `Cloud` | `Communautés de Marque`, `Cours`, `Événements` |
-| [Mee6](https://mee6.xyz/) | Bot Discord populaire avec modération, messages de bienvenue et commandes personnalisées. Approuvé par des millions d'utilisateurs. | `Cloud` | `Discord`, `Modération`, `Commandes Personnalisées` |
-| [Discord Subscription Bot](https://discord.com/) | Bot officiel pour gérer les abonnements serveur et les fonctionnalités premium. Améliorez votre serveur Discord. | `Cloud` | `Discord`, `Abonnements`, `Fonctionnalités Premium` |
-| [MemberSpace](https://memberspace.com/) | Plugin WordPress pour créer du contenu réservé aux membres et vendre des produits numériques. Sécurisé et facile à utiliser. | `Cloud` | `WordPress`, `Contenu Membres`, `Produits Numériques` |
-| [Inviterobot](https://inviterobot.com/) | Bot Discord pour gérer les invitations et la monétisation de serveur. Développez efficacement votre communauté. | `Cloud` | `Discord`, `Monétisation` |
-| [Squareup](https://squareup.com/) | Système de point de vente pour les paiements en magasin et en ligne. Approuvé par les entreprises du monde entier. | `Cloud` | `Point de Vente`, `Entreprises`, `Paiements` |
-| [SubscribeStar](https://subscribestar.com/) | Alternative à Patreon pour les créateurs de contenu. Recevez le soutien de votre audience directement. | `Cloud` | `Alternative`, `Patreon`, `Créateurs de Contenu` |
-| [Squarespace](https://squarespace.com/) | Constructeur de sites web avec fonctionnalités e-commerce et d'adhésion. Créez votre présence en ligne. | `Cloud` | `Constructeur de Sites`, `E-commerce`, `Adhésions` |
-| [InviteMember](https://invitemember.com/) | Bot Discord pour l'accès aux canaux privés et les abonnements payants. Monétisez votre communauté. | `Cloud` | `Discord`, `Accès`, `Abonnements Payants` |
-| [TGmembership](https://tgmembership.com/) | Bot Telegram pour l'accès aux canaux privés et les abonnements payants. Développez votre communauté Telegram. | `Cloud` | `Telegram`, `Accès`, `Abonnements Payants` |
-| [BotSubscription](https://botsubscription.com/) | Plateforme pour l'accès payant aux bots Discord et les fonctionnalités premium. Améliorez les capacités de votre serveur. | `Cloud` | `Discord`, `Bots`, `Accès Payant` |
-| [Circle](https://circle.so/) | Plateforme communautaire pour des espaces de marque avec cours et événements. Construisez votre hub communautaire. | `Cloud` | `Plateforme Communautaire`, `Créateurs`, `Espaces de Marque` |
-| [Conquest](https://useconquest.com/) | Plateforme d'analyse pour suivre l'impact et l'engagement communautaire. Prenez des décisions basées sur les données. | `Cloud` | `Analyse`, `Données`, `Suivi des Membres` |
-| [icon](https://www.iconmeetings.io/) | Plateforme communautaire agrégeant Discord, WhatsApp, Meetup, Eventbrite, Slack et Circle avec assistant IA. | `Cloud` | `Plateforme Communautaire`, `Gestion d'Événements`, `Monétisation` |
-
-## Communautés
-
-| Name | Description | Locations | Tags |
-| :------ | :---------- | :-------- | :--- |
-| [Paatch](https://www.paat.ch/) | Plateforme connectant les freelances et travailleurs distants via des espaces de coworking, expériences de coliving et événements axés sur l'IA. | `France` | `Freelances`, `Travail à Distance`, `Coworking` |
-| [La Growth Machine Playground](https://playground.lagrowthmachine.com/) | Forum communautaire pour les growth hackers et community builders, proposant discussions, événements et playbooks en anglais et français. | `France` | `Growth Hacking`, `Playbooks` |
-| [Growth Hacking France](https://www.growthhacking.fr/) | Forum communautaire français axé sur les techniques de growth hacking, incluant acquisition, automatisation, SEO et stratégies de scraping. | `France` | `Growth Hacking`, `Automatisation`, `Scraping` |
-| [Pragmatic Entrepreneurs Forum](https://forum.pragmaticentrepreneurs.com/) | Forum communautaire pour entrepreneurs partageant des stratégies pratiques de croissance business et des insights de développement. | `France` | `Entrepreneuriat`, `Croissance Business`, `Développement` |
-| [Slash FR](https://slash.fr.community/) | Plus grande communauté Discord française axée sur les actualités et le support Discord, proposant un système de progression unique et des canaux vocaux innovants. | `France` | `Discord`, `Support Communautaire`, `Actualités` |
-| [Eeko Factory](https://www.eeko-factory.fr/) | Plateforme pour créateurs de podcasts proposant stratégie, coaching et masterclasses pour construire et engager les audiences de podcasts. | `France` | `Stratégie de Podcast`, `Stratégie`, `Communauté` |
-| [Communitips Discord](https://content.clement-leroux.com/communitips) | Communauté française pour les builders pour échanger sur des projets, trouver des opportunités de travail et accéder à des sessions d'experts mensuelles et des articles. | `France` | `Construction de Communauté`, `Discord` |
-| [Qonto Community](https://community.qonto.com/fr) | Réseau professionnel pour entrepreneurs et dirigeants d'entreprise avec des espaces dédiés aux discussions sur la finance, la croissance et la RSE. | `France` | `Business`, `Finance`, `Comptabilité` |
-
-## Newsletters
-
-| Name | Description | Author | Tags |
-| :------ | :---------- | :-------- | :--- |
-| [Communitips](https://communitips.substack.com/) | Documentation du travail de construction de communauté : études de cas + théorie. Community Builder Freelance depuis 2020 et Head of Community chez crème de la crème (+20K membres). | `France` | `Construction de Communauté`, `Études de Cas`, `Théorie` |
+| [Mighty Networks](https://mighty.com/) | Créez des communautés de marque avec des cours et des événements. Construisez votre propre réseau social. | `

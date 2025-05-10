@@ -21,6 +21,7 @@ Jeśli znajdziesz coś nieprawidłowego lub chcesz dodać inną firmę, postępu
 | [Harmonie Solutions](https://harmonie.solutions/) | Agencja Discord specjalizująca się w tworzeniu niestandardowych serwerów, redesignie i zarządzaniu. | `Francja` | `Discord`, `Rozwój Niestandardowy`, `Zarządzanie Społecznością` |
 | [Orbital Projects](https://orbitalprojects.io/) | Kolektyw marketingowy specjalizujący się w budowaniu społeczności, zarządzaniu mediami społecznościowymi i tworzeniu treści dla branży gamingowej i web3. | `Francja` | `Gaming`, `Web3`, `Budowanie Społeczności` |
 | [Zoaa](https://www.zoaa.io/) | Agencja specjalizująca się w tworzeniu i zarządzaniu społecznościami Discord, oferująca profesjonalną konfigurację, zarządzanie społecznością, rozwój niestandardowych botów i usługi doradztwa strategicznego. | `Wielka Brytania` | `Discord`, `Zarządzanie Społecznością`, `Rozwój Niestandardowych Botów`, `Doradztwo Strategiczne` |
+| [Favvey](https://favvey.com/) | Agencja marketingu gamingowego specjalizująca się w immersyjnych doświadczeniach marki dla GenZ i GenAlpha. Tworzy kampanie gamingowe, buduje społeczności cyfrowe i rozwija niestandardowe doświadczenia w Roblox, Fortnite i Minecraft. | `Francja` | `Gaming`, `Budowanie Społeczności`, `Marketing Cyfrowy` |
 
 ## Freelancerzy
 
@@ -46,6 +47,7 @@ Jeśli znajdziesz coś nieprawidłowego lub chcesz dodać inną firmę, postępu
 | [Discomm - Sean M](https://www.discomm.cc/) | Zarządzanie społecznością Discord, konfiguracja i audyt serwerów, konsulting. | `Stany Zjednoczone` | `Discord`, `Konfiguracja`, `Audyt`, `Konsulting` |
 | [Lucas Gervraud](https://www.linkedin.com/in/lucas-gervraud-407999226/) | Community Manager freelancer od lipca 2022 z ponad 6-letnim doświadczeniem w Discord: tworzenie i zarządzanie serwerami, organizacja wydarzeń, rekrutacja i szkolenie moderatorów, zarządzanie uprawnieniami i miesięczne raporty. | `Francja`, `Nouvelle-Aquitaine`, `Saujon` | `Discord`, `Zarządzanie Społecznością`, `Freelancer` |
 | [Patrick Ploenes](https://www.linkedin.com/in/patrick-ploenes-980b59a4/) | Moderator i Community Manager Freelancer (Discord i Telegram) | `Wielka Brytania`, `Truro` | `Discord`, `Telegram`, `Moderacja`, `Zarządzanie Społecznością` |
+| [Axel Bierne](https://www.linkedin.com/in/axel-bierne/) | Community Builder specjalizujący się w społecznościach gamingowych, tworzący spersonalizowane doświadczenia dla marek. Doświadczenie z 30M+ graczy i 400 000+ członków Discord. Wielokrotnie nagradzany na arenie międzynarodowej. | `Francja`, `Paryż` | `Gaming`, `Discord`, `Budowanie Społeczności` |
 
 ## Oprogramowanie
 

@@ -21,6 +21,7 @@ Als je iets onjuists vindt of een ander bedrijf wilt toevoegen, volg dan de [reg
 | [Harmonie Solutions](https://harmonie.solutions/) | Discord bureau gespecialiseerd in maatwerk servercreatie, redesign en beheer. | `Frankrijk` | `Discord`, `Maatwerk Ontwikkeling`, `Community Management` |
 | [Orbital Projects](https://orbitalprojects.io/) | Marketing collectief gespecialiseerd in community building, social media management en content creatie voor de gaming en web3 industrieën. | `Frankrijk` | `Gaming`, `Web3`, `Community Building` |
 | [Zoaa](https://www.zoaa.io/) | Bureau gespecialiseerd in Discord community creatie en management, biedt professionele configuratie, community management, maatwerk bot ontwikkeling en strategisch advies. | `Verenigd Koninkrijk` | `Discord`, `Community Management`, `Maatwerk Bot Ontwikkeling`, `Strategisch Advies` |
+| [Favvey](https://favvey.com/) | Gaming marketing bureau gespecialiseerd in meeslepende merkervaringen voor GenZ en GenAlpha. Creëert gamingcampagnes, bouwt digitale communities en ontwikkelt op maat gemaakte game-ervaringen in Roblox, Fortnite en Minecraft. | `Frankrijk` | `Gaming`, `Community Building`, `Digitale Marketing` |
 
 ## Freelancers
 
@@ -46,6 +47,7 @@ Als je iets onjuists vindt of een ander bedrijf wilt toevoegen, volg dan de [reg
 | [Discomm - Sean M](https://www.discomm.cc/) | Discord community management, server configuratie en audit, consultancy. | `Verenigde Staten` | `Discord`, `Configuratie`, `Audit`, `Consultancy` |
 | [Lucas Gervraud](https://www.linkedin.com/in/lucas-gervraud-407999226/) | Community Manager freelancer sinds juli 2022 met meer dan 6 jaar ervaring in Discord: server creatie en management, event organisatie, moderator werving en training, permissie governance en maandelijkse rapporten. | `Frankrijk`, `Nouvelle-Aquitaine`, `Saujon` | `Discord`, `Community Management`, `Freelancer` |
 | [Patrick Ploenes](https://www.linkedin.com/in/patrick-ploenes-980b59a4/) | Moderator en Community Manager Freelancer (Discord en Telegram) | `Verenigd Koninkrijk`, `Truro` | `Discord`, `Telegram`, `Moderatie`, `Community Management` |
+| [Axel Bierne](https://www.linkedin.com/in/axel-bierne/) | Community Builder gespecialiseerd in gaming communities, creëert gepersonaliseerde ervaringen voor merken. Ervaring met 30M+ spelers en 400.000+ Discord-leden. Meervoudig internationaal bekroond. | `Frankrijk`, `Parijs` | `Gaming`, `Discord`, `Community Building` |
 
 ## Software
 

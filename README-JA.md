@@ -21,6 +21,7 @@
 | [Harmonie Solutions](https://harmonie.solutions/) | カスタムサーバーの作成、リデザイン、管理に特化したDiscordエージェンシー。 | `フランス` | `Discord`, `カスタム開発`, `コミュニティ管理` |
 | [Orbital Projects](https://orbitalprojects.io/) | ゲームとweb3産業向けのコミュニティ構築、ソーシャルメディア管理、コンテンツ作成に特化したマーケティング集団。 | `フランス` | `ゲーム`, `Web3`, `コミュニティ構築` |
 | [Zoaa](https://www.zoaa.io/) | Discordコミュニティの作成と管理に特化したエージェンシーで、プロフェッショナルな設定、コミュニティ管理、カスタムボット開発、戦略的コンサルティングサービスを提供。 | `イギリス` | `Discord`, `コミュニティ管理`, `カスタムボット開発`, `戦略的コンサルティング` |
+| [Favvey](https://favvey.com/) | GenZとGenAlpha向けの没入型ブランド体験に特化したゲーミングマーケティングエージェンシー。Roblox、Fortnite、Minecraftでのカスタムゲーム体験、デジタルコミュニティ構築、ゲーミングキャンペーンを提供。 | `フランス` | `ゲーム`, `コミュニティ構築`, `デジタルマーケティング` |
 
 ## フリーランサー
 
@@ -46,6 +47,7 @@
 | [Discomm - Sean M](https://www.discomm.cc/) | Discordコミュニティ管理、サーバー設定＆監査、コンサルティング。 | `アメリカ` | `Discord`, `設定`, `監査`, `コンサルティング` |
 | [Lucas Gervraud](https://www.linkedin.com/in/lucas-gervraud-407999226/) | 2022年7月からのフリーランスコミュニティマネージャー、Discordで6年以上の経験：サーバーの作成と管理、イベント組織、モデレーターの採用とトレーニング、権限管理と月次レポート。 | `フランス`, `ヌーベル＝アキテーヌ`, `ソージョン` | `Discord`, `コミュニティ管理`, `フリーランス` |
 | [Patrick Ploenes](https://www.linkedin.com/in/patrick-ploenes-980b59a4/) | フリーランスのモデレーター＆コミュニティマネージャー（DiscordとTelegram） | `イギリス`, `トゥルーロ` | `Discord`, `Telegram`, `モデレーション`, `コミュニティ管理` |
+| [Axel Bierne](https://www.linkedin.com/in/axel-bierne/) | ゲーミングコミュニティに特化したコミュニティビルダー。ブランド向けにパーソナライズされた体験を創出。30M+プレイヤー、400,000+ Discordメンバーの実績。国際的な受賞歴多数。 | `フランス`, `パリ` | `ゲーム`, `Discord`, `コミュニティ構築` |
 
 ## ソフトウェア
 
