@@ -49,6 +49,7 @@ If you find something wrong or want to add another company, please [follow the r
 | [Lucas Gervraud](https://www.linkedin.com/in/lucas-gervraud-407999226/) | Community Manager freelance since July 2022 with 6+ years of expertise in Discord: server creation & management, event organization, moderator recruitment & training, permissions governance, and monthly reporting. | `France`, `Nouvelle-Aquitaine`, `Saujon` | `Discord`, `Community Management`, `Freelance` |
 | [Patrick Ploenes](https://www.linkedin.com/in/patrick-ploenes-980b59a4/) | Freelance Moderator & Community Manager (Discord & Telegram) | `United Kingdom`, `Truro` | `Discord`, `Telegram`, `Community Management` |
 | [Axel Bierne](https://www.linkedin.com/in/axel-bierne/) | Community Builder specializing in gaming communities, creating personalized experiences for brands. Experience with 30M+ players and 400,000+ Discord members. Multiple international award winner. | `France`, `Paris` | `Gaming`, `Discord`, `Community Building` |
+| [Hugo Paul](https://www.linkedin.com/in/hugopaul-pro/) | Author of "Faire Tribu" (Editions Eyrolles) and community explorer. Specializes in sharing the art of building tribes through conferences and content creation. Experience with ecological and social impact communities. | `France` | `Community Building`, `Author`, `Speaker` |
 
 ## Softwares
 

@@ -48,6 +48,7 @@
 | [Lucas Gervraud](https://www.linkedin.com/in/lucas-gervraud-407999226/) | مدير مجتمع مستقل منذ يوليو 2022 مع أكثر من 6 سنوات من الخبرة في Discord: إنشاء وإدارة الخوادم، تنظيم الفعاليات، توظيف وتدريب المشرفين، إدارة الصلاحيات والتقارير الشهرية. | `فرنسا`, `Nouvelle-Aquitaine`, `Saujon` | `Discord`, `إدارة المجتمع`, `مستقل` |
 | [Patrick Ploenes](https://www.linkedin.com/in/patrick-ploenes-980b59a4/) | مشرف ومدير مجتمع مستقل (Discord وTelegram) | `المملكة المتحدة`, `Truro` | `Discord`, `Telegram`, `إشراف`, `إدارة المجتمع` |
 | [Axel Bierne](https://www.linkedin.com/in/axel-bierne/) | منشئ مجتمعات متخصص في مجتمعات الألعاب، يبتكر تجارب مخصصة للعلامات التجارية. خبرة مع أكثر من 30 مليون لاعب و400,000 عضو Discord. فائز بعدة جوائز دولية. | `فرنسا`, `باريس` | `الألعاب`, `Discord`, `بناء المجتمع` |
+| [Hugo Paul](https://www.linkedin.com/in/hugopaul-pro/) | مؤلف "Faire Tribu" (Editions Eyrolles) ومستكشف المجتمعات. متخصص في مشاركة فن بناء القبائل من خلال المؤتمرات وإنشاء المحتوى. خبرة في المجتمعات ذات التأثير البيئي والاجتماعي. | `France` | `Community Building`, `Author`, `Speaker` |
 
 ## البرمجيات
 

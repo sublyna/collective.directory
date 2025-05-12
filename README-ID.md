@@ -48,6 +48,7 @@ Jika Anda menemukan informasi yang tidak akurat atau ingin menambahkan perusahaa
 | [Lucas Gervraud](https://www.linkedin.com/in/lucas-gervraud-407999226/) | Manajer komunitas independen sejak Juli 2022 dengan lebih dari 6 tahun pengalaman di Discord: pembuatan dan manajemen server, pengorganisasian acara, perekrutan dan pelatihan moderator, manajemen izin dan laporan bulanan. | `Prancis`, `Nouvelle-Aquitaine`, `Saujon` | `Discord`, `manajemen komunitas`, `independen` |
 | [Patrick Ploenes](https://www.linkedin.com/in/patrick-ploenes-980b59a4/) | Moderator dan manajer komunitas independen (Discord dan Telegram) | `Inggris Raya`, `Truro` | `Discord`, `Telegram`, `moderasi`, `manajemen komunitas` |
 | [Axel Bierne](https://www.linkedin.com/in/axel-bierne/) | Community Builder yang berspesialisasi dalam komunitas gaming, menciptakan pengalaman personalisasi untuk merek. Pengalaman dengan 30M+ pemain dan 400.000+ anggota Discord. Pemenang beberapa penghargaan internasional. | `Prancis`, `Paris` | `Game`, `Discord`, `pembangunan komunitas` |
+| [Hugo Paul](https://www.linkedin.com/in/hugopaul-pro/) | Penulis "Faire Tribu" (Editions Eyrolles) dan penjelajah komunitas. Spesialis dalam berbagi seni membangun suku melalui konferensi dan pembuatan konten. Pengalaman dengan komunitas dampak ekologis dan sosial. | `France` | `Community Building`, `Author`, `Speaker` |
 
 ## Perangkat Lunak
 

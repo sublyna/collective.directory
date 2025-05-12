@@ -48,6 +48,7 @@
 | [Lucas Gervraud](https://www.linkedin.com/in/lucas-gervraud-407999226/) | 自2022年7月起的社区经理自由职业者，拥有超过6年的Discord经验：创建和管理服务器、组织活动、招聘和培训版主、权限管理和月度报告。 | `法国`, `Nouvelle-Aquitaine`, `Saujon` | `Discord`, `社区管理`, `自由职业者` |
 | [Patrick Ploenes](https://www.linkedin.com/in/patrick-ploenes-980b59a4/) | Discord和Telegram社区管理与审核自由职业者 | `英国`, `特鲁罗` | `Discord`, `Telegram`, `社区管理`, `审核` |
 | [Axel Bierne](https://www.linkedin.com/in/axel-bierne/) | 专注于游戏社区的社区建设者，为品牌打造个性化体验。拥有3000万+玩家和40万+ Discord成员经验，多次获得国际奖项。 | `法国`, `巴黎` | `游戏`, `Discord`, `社区建设` |
+| [Hugo Paul](https://www.linkedin.com/in/hugopaul-pro/) | "Faire Tribu"（Editions Eyrolles）的作者和社区探索者。专注于通过会议和内容创作分享部落建设的艺术。在生态和社会影响力社区方面有丰富经验。 | `France` | `Community Building`, `Author`, `Speaker` |
 
 ## 软件
 

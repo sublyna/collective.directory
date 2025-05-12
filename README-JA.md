@@ -48,6 +48,7 @@
 | [Lucas Gervraud](https://www.linkedin.com/in/lucas-gervraud-407999226/) | 2022年7月からのフリーランスコミュニティマネージャー、Discordで6年以上の経験：サーバーの作成と管理、イベント組織、モデレーターの採用とトレーニング、権限管理と月次レポート。 | `フランス`, `ヌーベル＝アキテーヌ`, `ソージョン` | `Discord`, `コミュニティ管理`, `フリーランス` |
 | [Patrick Ploenes](https://www.linkedin.com/in/patrick-ploenes-980b59a4/) | フリーランスのモデレーター＆コミュニティマネージャー（DiscordとTelegram） | `イギリス`, `トゥルーロ` | `Discord`, `Telegram`, `モデレーション`, `コミュニティ管理` |
 | [Axel Bierne](https://www.linkedin.com/in/axel-bierne/) | ゲーミングコミュニティに特化したコミュニティビルダー。ブランド向けにパーソナライズされた体験を創出。30M+プレイヤー、400,000+ Discordメンバーの実績。国際的な受賞歴多数。 | `フランス`, `パリ` | `ゲーム`, `Discord`, `コミュニティ構築` |
+| [Hugo Paul](https://www.linkedin.com/in/hugopaul-pro/) | "Faire Tribu"（Editions Eyrolles）の著者であり、コミュニティ探検家。カンファレンスやコンテンツ制作を通じて、部族を構築する技術の共有を専門としています。エコロジカルおよびソーシャルインパクトのあるコミュニティでの経験があります。 | `France` | `Community Building`, `Author`, `Speaker` |
 
 ## ソフトウェア
 
