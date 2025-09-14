@@ -57,6 +57,7 @@
 | [Sublyna](https://www.sublyna.com/) | 通过自动访问管理、落地页和分析实现Discord和Telegram社区的变现。适合社区所有者。 | `云端` | `Discord`, `Telegram` |
 | [Gumroad](https://gumroad.com/) | 直接向受众销售数字产品、订阅和课程。受到全球数千创作者的信任。 | `云端` | `数字产品`, `订阅`, `课程` |
 | [Sublaunch](https://sublaunch.com/) | 通过自动支付和访问控制管理Discord订阅。优化社区变现。 | `云端` | `Discord`, `订阅`, `访问控制` |
+| [Subscord](https://subscord.com/) | 支持加密货币和Stripe的Discord支付机器人，自动分配角色，支持订阅与一次性购买。平台费0%。 | `云端` | `Discord`, `支付`, `加密`, `Stripe` |
 | [Stripe](https://stripe.com/) | 支持多种支付方式和货币的完整支付基础设施。为数百万企业提供动力。 | `云端` | `支付基础设施`, `多种支付方式`, `货币` |
 | [Whop](https://whop.com/) | 具有流畅支付处理和访问管理的数字市场。适合数字产品和服务。 | `云端` | `数字产品`, `服务`, `访问管理` |
 | [Skool](https://skool.com/) | 创建和销售具有内置社区功能和游戏化的在线课程。有效吸引学生。 | `云端` | `在线课程`, `社区`, `游戏化` |
