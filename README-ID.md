@@ -49,6 +49,7 @@ Jika Anda menemukan informasi yang tidak akurat atau ingin menambahkan perusahaa
 | [Patrick Ploenes](https://www.linkedin.com/in/patrick-ploenes-980b59a4/) | Moderator dan manajer komunitas independen (Discord dan Telegram) | `Inggris Raya`, `Truro` | `Discord`, `Telegram`, `moderasi`, `manajemen komunitas` |
 | [Axel Bierne](https://www.linkedin.com/in/axel-bierne/) | Community Builder yang berspesialisasi dalam komunitas gaming, menciptakan pengalaman personalisasi untuk merek. Pengalaman dengan 30M+ pemain dan 400.000+ anggota Discord. Pemenang beberapa penghargaan internasional. | `Prancis`, `Paris` | `Game`, `Discord`, `pembangunan komunitas` |
 | [Hugo Paul](https://www.linkedin.com/in/hugopaul-pro/) | Penulis "Faire Tribu" (Editions Eyrolles) dan penjelajah komunitas. Spesialis dalam berbagi seni membangun suku melalui konferensi dan pembuatan konten. Pengalaman dengan komunitas dampak ekologis dan sosial. | `France` | `Community Building`, `Author`, `Speaker` |
+| [Célia Alessandri](https://www.linkedin.com/in/c%C3%A9lia-alessandri-09b86992/) | Konsultan Manajemen Pengetahuan; Co‑founder ProKnow Club. Membantu tim meningkatkan akses pengetahuan harian melalui strategi, implementasi, dan fasilitasi. | `Prancis`, `Paris` | `Manajemen Pengetahuan`, `Fasilitasi`, `Enablement`, `Manajemen Proyek` |
 
 ## Perangkat Lunak
 
@@ -57,7 +58,6 @@ Jika Anda menemukan informasi yang tidak akurat atau ingin menambahkan perusahaa
 | [Sublyna](https://www.sublyna.com/) | Monetisasi komunitas Discord dan Telegram dengan manajemen akses otomatis, halaman arahan, dan analitik. Ideal untuk pemilik komunitas. | `cloud` | `Discord`, `Telegram` |
 | [Gumroad](https://gumroad.com/) | Jual produk digital, langganan, dan kursus langsung ke audiens Anda. Dipercaya oleh ribuan pembuat di seluruh dunia. | `cloud` | `produk digital`, `langganan`, `kursus` |
 | [Sublaunch](https://sublaunch.com/) | Kelola langganan Discord dengan pembayaran otomatis dan pemantauan akses. Tingkatkan monetisasi komunitas Anda. | `cloud` | `Discord`, `langganan`, `pemantauan akses` |
-| [Subscord](https://subscord.com/) | Bot pembayaran Discord dengan crypto dan Stripe, penetapan peran otomatis, langganan dan pembayaran satu kali. 0% biaya platform. | `cloud` | `Discord`, `pembayaran`, `crypto`, `Stripe` |
 | [Stripe](https://stripe.com/) | Infrastruktur pembayaran lengkap yang mendukung berbagai metode pembayaran dan mata uang. Menjalankan jutaan bisnis. | `cloud` | `infrastruktur pembayaran`, `berbagai metode pembayaran`, `mata uang` |
 | [Whop](https://whop.com/) | Marketplace digital dengan pemrosesan pembayaran yang mulus dan manajemen akses. Ideal untuk produk dan layanan digital. | `cloud` | `produk digital`, `layanan`, `manajemen akses` |
 | [Skool](https://skool.com/) | Buat dan jual kursus online dengan fitur komunitas terintegrasi dan gamifikasi. Libatkan siswa Anda secara efektif. | `cloud` | `kursus online`, `komunitas`, `gamifikasi` |

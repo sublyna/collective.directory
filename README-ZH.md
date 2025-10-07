@@ -49,6 +49,7 @@
 | [Patrick Ploenes](https://www.linkedin.com/in/patrick-ploenes-980b59a4/) | Discord和Telegram社区管理与审核自由职业者 | `英国`, `特鲁罗` | `Discord`, `Telegram`, `社区管理`, `审核` |
 | [Axel Bierne](https://www.linkedin.com/in/axel-bierne/) | 专注于游戏社区的社区建设者，为品牌打造个性化体验。拥有3000万+玩家和40万+ Discord成员经验，多次获得国际奖项。 | `法国`, `巴黎` | `游戏`, `Discord`, `社区建设` |
 | [Hugo Paul](https://www.linkedin.com/in/hugopaul-pro/) | "Faire Tribu"（Editions Eyrolles）的作者和社区探索者。专注于通过会议和内容创作分享部落建设的艺术。在生态和社会影响力社区方面有丰富经验。 | `France` | `Community Building`, `Author`, `Speaker` |
+| [Célia Alessandri](https://www.linkedin.com/in/c%C3%A9lia-alessandri-09b86992/) | 知识管理顾问；ProKnow Club 联合创始人。通过战略、落地与引导，帮助团队提升日常知识获取。 | `法国`, `巴黎` | `知识管理`, `引导`, `Enablement`, `项目管理` |
 
 ## 软件
 
@@ -57,7 +58,6 @@
 | [Sublyna](https://www.sublyna.com/) | 通过自动访问管理、落地页和分析实现Discord和Telegram社区的变现。适合社区所有者。 | `云端` | `Discord`, `Telegram` |
 | [Gumroad](https://gumroad.com/) | 直接向受众销售数字产品、订阅和课程。受到全球数千创作者的信任。 | `云端` | `数字产品`, `订阅`, `课程` |
 | [Sublaunch](https://sublaunch.com/) | 通过自动支付和访问控制管理Discord订阅。优化社区变现。 | `云端` | `Discord`, `订阅`, `访问控制` |
-| [Subscord](https://subscord.com/) | 支持加密货币和Stripe的Discord支付机器人，自动分配角色，支持订阅与一次性购买。平台费0%。 | `云端` | `Discord`, `支付`, `加密`, `Stripe` |
 | [Stripe](https://stripe.com/) | 支持多种支付方式和货币的完整支付基础设施。为数百万企业提供动力。 | `云端` | `支付基础设施`, `多种支付方式`, `货币` |
 | [Whop](https://whop.com/) | 具有流畅支付处理和访问管理的数字市场。适合数字产品和服务。 | `云端` | `数字产品`, `服务`, `访问管理` |
 | [Skool](https://skool.com/) | 创建和销售具有内置社区功能和游戏化的在线课程。有效吸引学生。 | `云端` | `在线课程`, `社区`, `游戏化` |

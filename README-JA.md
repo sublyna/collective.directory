@@ -49,6 +49,7 @@
 | [Patrick Ploenes](https://www.linkedin.com/in/patrick-ploenes-980b59a4/) | フリーランスのモデレーター＆コミュニティマネージャー（DiscordとTelegram） | `イギリス`, `トゥルーロ` | `Discord`, `Telegram`, `モデレーション`, `コミュニティ管理` |
 | [Axel Bierne](https://www.linkedin.com/in/axel-bierne/) | ゲーミングコミュニティに特化したコミュニティビルダー。ブランド向けにパーソナライズされた体験を創出。30M+プレイヤー、400,000+ Discordメンバーの実績。国際的な受賞歴多数。 | `フランス`, `パリ` | `ゲーム`, `Discord`, `コミュニティ構築` |
 | [Hugo Paul](https://www.linkedin.com/in/hugopaul-pro/) | "Faire Tribu"（Editions Eyrolles）の著者であり、コミュニティ探検家。カンファレンスやコンテンツ制作を通じて、部族を構築する技術の共有を専門としています。エコロジカルおよびソーシャルインパクトのあるコミュニティでの経験があります。 | `France` | `Community Building`, `Author`, `Speaker` |
+| [Célia Alessandri](https://www.linkedin.com/in/c%C3%A9lia-alessandri-09b86992/) | ナレッジマネジメントコンサルタント。ProKnow Club共同創設者。戦略・導入・ファシリテーションを通じて、日々の知識アクセスの向上を支援。 | `フランス`, `パリ` | `ナレッジマネジメント`, `ファシリテーション`, `イネーブルメント`, `プロジェクトマネジメント` |
 
 ## ソフトウェア
 
@@ -57,7 +58,6 @@
 | [Sublyna](https://www.sublyna.com/) | 自動アクセス管理、ランディングページ、分析を備えたDiscordとTelegramコミュニティの収益化。コミュニティオーナーに最適。 | `クラウド` | `Discord`, `Telegram` |
 | [Gumroad](https://gumroad.com/) | デジタル製品、サブスクリプション、コースを直接オーディエンスに販売。世界中の何千ものクリエイターに信頼されています。 | `クラウド` | `デジタル製品`, `サブスクリプション`, `コース` |
 | [Sublaunch](https://sublaunch.com/) | 自動支払いとアクセス制御でDiscordサブスクリプションを管理。コミュニティの収益化を最適化。 | `クラウド` | `Discord`, `サブスクリプション`, `アクセス制御` |
-| [Subscord](https://subscord.com/) | クリプトとStripeに対応したDiscord決済ボット。自動ロール付与、サブスクリプションと単発決済に対応。プラットフォーム手数料0%。 | `クラウド` | `Discord`, `決済`, `クリプト`, `Stripe` |
 | [Stripe](https://stripe.com/) | 複数の支払い方法と通貨をサポートする完全な支払いインフラストラクチャ。何百万もの企業を支えています。 | `クラウド` | `支払いインフラ`, `複数支払い方法`, `通貨` |
 | [Whop](https://whop.com/) | スムーズな支払い処理とアクセス管理を備えたデジタルマーケットプレイス。デジタル製品とサービスに最適。 | `クラウド` | `デジタル製品`, `サービス`, `アクセス管理` |
 | [Skool](https://skool.com/) | コミュニティ機能とゲーミフィケーションを組み込んだオンラインコースを作成・販売。学生を効果的に関与させます。 | `クラウド` | `オンラインコース`, `コミュニティ`, `ゲーミフィケーション` |

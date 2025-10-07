@@ -49,6 +49,7 @@ Jeśli znajdziesz coś nieprawidłowego lub chcesz dodać inną firmę, postępu
 | [Patrick Ploenes](https://www.linkedin.com/in/patrick-ploenes-980b59a4/) | Moderator i Community Manager Freelancer (Discord i Telegram) | `Wielka Brytania`, `Truro` | `Discord`, `Telegram`, `Moderacja`, `Zarządzanie Społecznością` |
 | [Axel Bierne](https://www.linkedin.com/in/axel-bierne/) | Community Builder specjalizujący się w społecznościach gamingowych, tworzący spersonalizowane doświadczenia dla marek. Doświadczenie z 30M+ graczy i 400 000+ członków Discord. Wielokrotnie nagradzany na arenie międzynarodowej. | `Francja`, `Paryż` | `Gaming`, `Discord`, `Budowanie Społeczności` |
 | [Hugo Paul](https://www.linkedin.com/in/hugopaul-pro/) | Autor "Faire Tribu" (Editions Eyrolles) i odkrywca społeczności. Specjalizuje się w dzieleniu się sztuką budowania plemion poprzez konferencje i tworzenie treści. Doświadczenie w społecznościach o wpływie ekologicznym i społecznym. | `France` | `Community Building`, `Author`, `Speaker` |
+| [Célia Alessandri](https://www.linkedin.com/in/c%C3%A9lia-alessandri-09b86992/) | Konsultantka zarządzania wiedzą; współzałożycielka ProKnow Club. Pomaga zespołom poprawić codzienny dostęp do wiedzy poprzez strategię, wdrożenie i facylitację. | `Francja`, `Paryż` | `Zarządzanie Wiedzą`, `Facylitacja`, `Enablement`, `Zarządzanie Projektami` |
 
 ## Oprogramowanie
 
@@ -57,7 +58,6 @@ Jeśli znajdziesz coś nieprawidłowego lub chcesz dodać inną firmę, postępu
 | [Sublyna](https://www.sublyna.com/) | Monetyzuj społeczności Discord i Telegram z automatycznym zarządzaniem dostępem, stronami lądowymi i analityką. Idealne dla właścicieli społeczności. | `Cloud` | `Discord`, `Telegram` |
 | [Gumroad](https://gumroad.com/) | Sprzedawaj produkty cyfrowe, subskrypcje i kursy bezpośrednio do swojej publiczności. Zaufane przez tysiące twórców na całym świecie. | `Cloud` | `Produkty Cyfrowe`, `Subskrypcje`, `Kursy` |
 | [Sublaunch](https://sublaunch.com/) | Zarządzaj subskrypcjami Discord z automatycznymi płatnościami i kontrolą dostępu. Optymalizuj monetyzację swojej społeczności. | `Cloud` | `Discord`, `Subskrypcje`, `Kontrola Dostępu` |
-| [Subscord](https://subscord.com/) | Bot płatności dla Discord z krypto i Stripe, automatyczne nadawanie ról, subskrypcje i jednorazowe płatności. 0% opłat platformy. | `Cloud` | `Discord`, `Płatności`, `Krypto`, `Stripe` |
 | [Stripe](https://stripe.com/) | Kompletna infrastruktura płatnicza wspierająca wiele metod płatności i walut. Zasila miliony firm. | `Cloud` | `Infrastruktura Płatnicza`, `Wiele Metod Płatności`, `Waluty` |
 | [Whop](https://whop.com/) | Cyfrowy marketplace z płynnym przetwarzaniem płatności i zarządzaniem dostępem. Idealne dla produktów i usług cyfrowych. | `Cloud` | `Produkty Cyfrowe`, `Usługi`, `Zarządzanie Dostępem` |
 | [Skool](https://skool.com/) | Twórz i sprzedawaj kursy online z wbudowaną funkcjonalnością społecznościową i gamifikacją. Skutecznie angażuj swoich studentów. | `Cloud` | `Kursy Online`, `Społeczność`, `Gamifikacja` |

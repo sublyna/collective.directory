@@ -49,6 +49,7 @@ Als je iets onjuists vindt of een ander bedrijf wilt toevoegen, volg dan de [reg
 | [Patrick Ploenes](https://www.linkedin.com/in/patrick-ploenes-980b59a4/) | Moderator en Community Manager Freelancer (Discord en Telegram) | `Verenigd Koninkrijk`, `Truro` | `Discord`, `Telegram`, `Moderatie`, `Community Management` |
 | [Axel Bierne](https://www.linkedin.com/in/axel-bierne/) | Community Builder gespecialiseerd in gaming communities, creëert gepersonaliseerde ervaringen voor merken. Ervaring met 30M+ spelers en 400.000+ Discord-leden. Meervoudig internationaal bekroond. | `Frankrijk`, `Parijs` | `Gaming`, `Discord`, `Community Building` |
 | [Hugo Paul](https://www.linkedin.com/in/hugopaul-pro/) | Auteur van "Faire Tribu" (Editions Eyrolles) en community-ontdekkingsreiziger. Gespecialiseerd in het delen van de kunst van het bouwen van stammen via conferenties en contentcreatie. Ervaring met ecologische en sociale impact-communities. | `France` | `Community Building`, `Author`, `Speaker` |
+| [Célia Alessandri](https://www.linkedin.com/in/c%C3%A9lia-alessandri-09b86992/) | Knowledge Management consultant; mede‑oprichter van ProKnow Club. Helpt teams de dagelijkse kennis-toegang te verbeteren via strategie, implementatie en facilitatie. | `Frankrijk`, `Parijs` | `Knowledge Management`, `Facilitatie`, `Enablement`, `Projectmanagement` |
 
 ## Software
 
@@ -57,7 +58,6 @@ Als je iets onjuists vindt of een ander bedrijf wilt toevoegen, volg dan de [reg
 | [Sublyna](https://www.sublyna.com/) | Monetiseer Discord en Telegram communities met geautomatiseerd toegangsbeheer, landingspagina's en analyses. Perfect voor community eigenaren. | `Cloud` | `Discord`, `Telegram` |
 | [Gumroad](https://gumroad.com/) | Verkoop digitale producten, abonnementen en cursussen direct aan je publiek. Vertrouwd door duizenden creators wereldwijd. | `Cloud` | `Digitale Producten`, `Abonnementen`, `Cursussen` |
 | [Sublaunch](https://sublaunch.com/) | Beheer Discord abonnementen met geautomatiseerde betalingen en toegangscontrole. Optimaliseer je community monetisatie. | `Cloud` | `Discord`, `Abonnementen`, `Toegangscontrole` |
-| [Subscord](https://subscord.com/) | Discord-betaalbot met crypto en Stripe, automatische roltoewijzing, abonnementen en eenmalige betalingen. 0% platformkosten. | `Cloud` | `Discord`, `Betalingen`, `Crypto`, `Stripe` |
 | [Stripe](https://stripe.com/) | Complete betalingsinfrastructuur die meerdere betaalmethoden en valuta's ondersteunt. Voedt miljoenen bedrijven. | `Cloud` | `Betalingsinfrastructuur`, `Meerdere Betaalmethoden`, `Valuta's` |
 | [Whop](https://whop.com/) | Digitale marketplace met soepele betalingsverwerking en toegangsbeheer. Perfect voor digitale producten en diensten. | `Cloud` | `Digitale Producten`, `Diensten`, `Toegangsbeheer` |
 | [Skool](https://skool.com/) | Creëer en verkoop online cursussen met ingebouwde community functionaliteit en gamification. Betrek je studenten effectief. | `Cloud` | `Online Cursussen`, `Community`, `Gamification` |
