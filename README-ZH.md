@@ -50,6 +50,7 @@
 | [Axel Bierne](https://www.linkedin.com/in/axel-bierne/) | 专注于游戏社区的社区建设者，为品牌打造个性化体验。拥有3000万+玩家和40万+ Discord成员经验，多次获得国际奖项。 | `法国`, `巴黎` | `游戏`, `Discord`, `社区建设` |
 | [Hugo Paul](https://www.linkedin.com/in/hugopaul-pro/) | "Faire Tribu"（Editions Eyrolles）的作者和社区探索者。专注于通过会议和内容创作分享部落建设的艺术。在生态和社会影响力社区方面有丰富经验。 | `France` | `Community Building`, `Author`, `Speaker` |
 | [Célia Alessandri](https://www.linkedin.com/in/c%C3%A9lia-alessandri-09b86992/) | 知识管理顾问；ProKnow Club 联合创始人。通过战略、落地与引导，帮助团队提升日常知识获取。 | `法国`, `巴黎` | `知识管理`, `引导`, `Enablement`, `项目管理` |
+| [Rachel De Lima](https://www.linkedin.com/in/racheldelima/) | Freelance Community Marketing Manager helping organizations create communities from scratch or grow existing ones with marketing support, content creation, and online/offline event organization. | `France` | `Community Building`, `Marketing`, `Content`, `Events` |
 
 ## 软件
 

@@ -50,6 +50,7 @@
 | [Axel Bierne](https://www.linkedin.com/in/axel-bierne/) | ゲーミングコミュニティに特化したコミュニティビルダー。ブランド向けにパーソナライズされた体験を創出。30M+プレイヤー、400,000+ Discordメンバーの実績。国際的な受賞歴多数。 | `フランス`, `パリ` | `ゲーム`, `Discord`, `コミュニティ構築` |
 | [Hugo Paul](https://www.linkedin.com/in/hugopaul-pro/) | "Faire Tribu"（Editions Eyrolles）の著者であり、コミュニティ探検家。カンファレンスやコンテンツ制作を通じて、部族を構築する技術の共有を専門としています。エコロジカルおよびソーシャルインパクトのあるコミュニティでの経験があります。 | `France` | `Community Building`, `Author`, `Speaker` |
 | [Célia Alessandri](https://www.linkedin.com/in/c%C3%A9lia-alessandri-09b86992/) | ナレッジマネジメントコンサルタント。ProKnow Club共同創設者。戦略・導入・ファシリテーションを通じて、日々の知識アクセスの向上を支援。 | `フランス`, `パリ` | `ナレッジマネジメント`, `ファシリテーション`, `イネーブルメント`, `プロジェクトマネジメント` |
+| [Rachel De Lima](https://www.linkedin.com/in/racheldelima/) | Freelance Community Marketing Manager helping organizations create communities from scratch or grow existing ones with marketing support, content creation, and online/offline event organization. | `France` | `Community Building`, `Marketing`, `Content`, `Events` |
 
 ## ソフトウェア
 

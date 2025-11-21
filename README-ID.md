@@ -50,6 +50,7 @@ Jika Anda menemukan informasi yang tidak akurat atau ingin menambahkan perusahaa
 | [Axel Bierne](https://www.linkedin.com/in/axel-bierne/) | Community Builder yang berspesialisasi dalam komunitas gaming, menciptakan pengalaman personalisasi untuk merek. Pengalaman dengan 30M+ pemain dan 400.000+ anggota Discord. Pemenang beberapa penghargaan internasional. | `Prancis`, `Paris` | `Game`, `Discord`, `pembangunan komunitas` |
 | [Hugo Paul](https://www.linkedin.com/in/hugopaul-pro/) | Penulis "Faire Tribu" (Editions Eyrolles) dan penjelajah komunitas. Spesialis dalam berbagi seni membangun suku melalui konferensi dan pembuatan konten. Pengalaman dengan komunitas dampak ekologis dan sosial. | `France` | `Community Building`, `Author`, `Speaker` |
 | [Célia Alessandri](https://www.linkedin.com/in/c%C3%A9lia-alessandri-09b86992/) | Konsultan Manajemen Pengetahuan; Co‑founder ProKnow Club. Membantu tim meningkatkan akses pengetahuan harian melalui strategi, implementasi, dan fasilitasi. | `Prancis`, `Paris` | `Manajemen Pengetahuan`, `Fasilitasi`, `Enablement`, `Manajemen Proyek` |
+| [Rachel De Lima](https://www.linkedin.com/in/racheldelima/) | Freelance Community Marketing Manager helping organizations create communities from scratch or grow existing ones with marketing support, content creation, and online/offline event organization. | `France` | `Community Building`, `Marketing`, `Content`, `Events` |
 
 ## Perangkat Lunak
 

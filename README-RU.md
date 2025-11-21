@@ -50,6 +50,7 @@
 | [Axel Bierne](https://www.linkedin.com/in/axel-bierne/) | Community Builder, специализирующийся на игровых сообществах, создает персонализированные экспириенсы для брендов. Опыт работы с 30M+ игроками и 400 000+ участниками Discord. Многократный международный лауреат. | `Франция`, `Париж` | `Игры`, `Discord`, `Построение сообществ` |
 | [Hugo Paul](https://www.linkedin.com/in/hugopaul-pro/) | Автор "Faire Tribu" (Editions Eyrolles) и исследователь сообществ. Специализируется на распространении искусства создания племен через конференции и создание контента. Опыт работы с экологическими и социальными сообществами с позитивным влиянием. | `France` | `Community Building`, `Author`, `Speaker` |
 | [Célia Alessandri](https://www.linkedin.com/in/c%C3%A9lia-alessandri-09b86992/) | Консультант по управлению знаниями; со‑основатель ProKnow Club. Помогает командам улучшать ежедневный доступ к знаниям через стратегию, внедрение и фасилитацию. | `Франция`, `Париж` | `Управление знаниями`, `Фасилитация`, `Enablement`, `Управление проектами` |
+| [Rachel De Lima](https://www.linkedin.com/in/racheldelima/) | Freelance Community Marketing Manager helping organizations create communities from scratch or grow existing ones with marketing support, content creation, and online/offline event organization. | `France` | `Community Building`, `Marketing`, `Content`, `Events` |
 
 ## Программное обеспечение
 

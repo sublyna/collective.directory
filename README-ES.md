@@ -50,6 +50,7 @@ Si encuentra algo incorrecto o desea agregar otra empresa, por favor [siga las r
 | [Axel Bierne](https://www.linkedin.com/in/axel-bierne/) | Community Builder especializado en comunidades gaming, creando experiencias personalizadas para marcas. Experiencia con más de 30M de jugadores y 400,000+ miembros de Discord. Ganador de múltiples premios internacionales. | `Francia`, `París` | `Gaming`, `Discord`, `Construcción de Comunidad` |
 | [Hugo Paul](https://www.linkedin.com/in/hugopaul-pro/) | Autor de "Faire Tribu" (Editions Eyrolles) y explorador de comunidades. Especializado en compartir el arte de construir tribus a través de conferencias y creación de contenido. Experiencia con comunidades de impacto ecológico y social. | `France` | `Community Building`, `Author`, `Speaker` |
 | [Célia Alessandri](https://www.linkedin.com/in/c%C3%A9lia-alessandri-09b86992/) | Consultora en Gestión del Conocimiento; Cofundadora de ProKnow Club. Ayuda a equipos a mejorar el acceso diario al conocimiento mediante estrategia, despliegue y facilitación. | `Francia`, `París` | `Gestión del Conocimiento`, `Facilitación`, `Enablement`, `Gestión de Proyectos` |
+| [Rachel De Lima](https://www.linkedin.com/in/racheldelima/) | Freelance Community Marketing Manager helping organizations create communities from scratch or grow existing ones with marketing support, content creation, and online/offline event organization. | `France` | `Community Building`, `Marketing`, `Content`, `Events` |
 
 ## Software
 
