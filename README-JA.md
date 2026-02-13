@@ -81,6 +81,7 @@
 | [BotSubscription](https://botsubscription.com/) | Discordボットとプレミアム機能への有料アクセスのためのプラットフォーム。サーバーの機能を向上。 | `クラウド` | `Discord`, `ボット`, `有料アクセス` |
 | [Circle](https://circle.so/) | コースとイベントを備えたブランドスペース向けコミュニティプラットフォーム。コミュニティハブを構築。 | `クラウド` | `コミュニティプラットフォーム`, `クリエイター`, `ブランドスペース` |
 | [Conquest](https://useconquest.com/) | コミュニティのインパクトとエンゲージメントを監視するための分析プラットフォーム。データに基づく決定を行います。 | `クラウド` | `分析`, `データ駆動`, `メンバー追跡` |
+| [Snowledge](https://snowledge.eu/) | AI-powered community intelligence copilot that connects all your community platforms, analyzes every conversation, and surfaces top insights, alerts, and reports so you can focus on strategy and growth. | `クラウド` | `アナリティクス`, `AI`, `コミュニティ運営`, `レポーティング` |
 | [icon](https://www.iconmeetings.io/) | Discord、WhatsApp、Meetup、Eventbrite、Slack、CircleをAIアシスタントと統合するコミュニティプラットフォーム。 | `クラウド` | `コミュニティプラットフォーム`, `イベント管理`, `収益化` |
 
 ## コミュニティ

@@ -81,6 +81,7 @@
 | [BotSubscription](https://botsubscription.com/) | Платформа для платного доступа к Discord-ботам и премиум-функциям. Улучшение возможностей вашего сервера. | `Облако` | `Discord`, `Боты`, `Платный доступ` |
 | [Circle](https://circle.so/) | Платформа сообществ для брендовых пространств с курсами и событиями. Построение вашего хаба сообщества. | `Облако` | `Платформа сообществ`, `Создатели`, `Брендовые пространства` |
 | [Conquest](https://useconquest.com/) | Аналитическая платформа для отслеживания влияния и вовлеченности сообщества. Принятие решений на основе данных. | `Облако` | `Аналитика`, `На основе данных`, `Отслеживание участников` |
+| [Snowledge](https://snowledge.eu/) | AI-powered community intelligence copilot that connects all your community platforms, analyzes every conversation, and surfaces top insights, alerts, and reports so you can focus on strategy and growth. | `Облако` | `Analytics`, `AI`, `Управление сообществом`, `Отчётность` |
 | [icon](https://www.iconmeetings.io/) | Платформа сообществ, объединяющая Discord, WhatsApp, Meetup, Eventbrite, Slack и Circle с ИИ-ассистентом. | `Облако` | `Платформа сообществ`, `Управление событиями`, `Монетизация` |
 
 ## Сообщества

@@ -68,4 +68,5 @@ Si vous trouvez quelque chose d'incorrect ou souhaitez ajouter une autre entrepr
 | [Memberful](https://memberful.com/) | Vendez des abonnements et gérez l'accès des membres facilement. Approuvé par les créateurs de contenu du monde entier. | `Cloud` | `Abonnements`, `Accès Membres` |
 | [Patreon](https://patreon.com/) | Construisez des relations avec votre audience via du contenu exclusif. Rejoignez des millions de créateurs. | `Cloud` | `Abonnements`, `Relations avec l'Audience` |
 | [Accessdock](https://accessdock.com/) | Bot Discord pour gérer les abonnements payants et l'accès aux canaux privés. Simplifiez votre communauté. | `Cloud` | `Discord`, `Abonnements Payants`, `Gestion d'Accès` |
-| [Mighty Networks](https://mighty.com/) | Créez des communautés de marque avec des cours et des événements. Construisez votre propre réseau social. | `
+| [Mighty Networks](https://mighty.com/) | Créez des communautés de marque avec des cours et des événements. Construisez votre propre réseau social. | `Cloud` | `Communautés de Marque`, `Cours`, `Événements` |
+| [Snowledge](https://snowledge.eu/) | AI-powered community intelligence copilot that connects all your community platforms, analyzes every conversation, and surfaces top insights, alerts, and reports so you can focus on strategy and growth. | `Cloud` | `Analytics`, `AI`, `Community Management`, `Reporting` |

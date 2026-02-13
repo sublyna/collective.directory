@@ -81,6 +81,7 @@ Jika Anda menemukan informasi yang tidak akurat atau ingin menambahkan perusahaa
 | [BotSubscription](https://botsubscription.com/) | Platform untuk akses berbayar ke bot Discord dan fitur premium. Tingkatkan kemampuan server Anda. | `cloud` | `Discord`, `bot`, `akses berbayar` |
 | [Circle](https://circle.so/) | Platform komunitas untuk ruang merek dengan kursus dan acara. Bangun pusat komunitas Anda. | `cloud` | `platform komunitas`, `pembuat`, `ruang merek` |
 | [Conquest](https://useconquest.com/) | Platform analitik untuk memantau dampak dan keterlibatan komunitas. Buat keputusan berbasis data. | `cloud` | `analitik`, `berbasis data`, `pemantauan anggota` |
+| [Snowledge](https://snowledge.eu/) | AI-powered community intelligence copilot that connects all your community platforms, analyzes every conversation, and surfaces top insights, alerts, and reports so you can focus on strategy and growth. | `cloud` | `analytics`, `AI`, `community management`, `reporting` |
 | [icon](https://www.iconmeetings.io/) | Platform komunitas yang mengintegrasikan Discord, WhatsApp, Meetup, Eventbrite, Slack, dan Circle dengan asisten AI. | `cloud` | `platform komunitas`, `manajemen acara`, `monetisasi` |
 
 ## Komunitas

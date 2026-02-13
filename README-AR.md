@@ -81,6 +81,7 @@
 | [BotSubscription](https://botsubscription.com/) | منصة للوصول المدفوع إلى روبوتات Discord والميزات المتميزة. تحسين قدرات خادمك. | `سحابي` | `Discord`, `روبوت`, `وصول مدفوع` |
 | [Circle](https://circle.so/) | منصة مجتمع لمساحات العلامة التجارية مع دورات وفعاليات. بناء مركز مجتمعك. | `سحابي` | `منصة مجتمع`, `مبدعون`, `مساحات علامة تجارية` |
 | [Conquest](https://useconquest.com/) | منصة تحليلات لمراقبة تأثير المجتمع والمشاركة. اتخاذ قرارات قائمة على البيانات. | `سحابي` | `تحليلات`, `قائم على البيانات`, `مراقبة الأعضاء` |
+| [Snowledge](https://snowledge.eu/) | AI-powered community intelligence copilot that connects all your community platforms, analyzes every conversation, and surfaces top insights, alerts, and reports so you can focus on strategy and growth. | `سحابي` | `تحليلات`, `ذكاء اصطناعي`, `إدارة المجتمع`, `تقارير` |
 | [icon](https://www.iconmeetings.io/) | منصة مجتمع تدمج Discord وWhatsApp وMeetup وEventbrite وSlack وCircle مع مساعد ذكاء اصطناعي. | `سحابي` | `منصة مجتمع`, `إدارة فعاليات`, `استثمار` |
 
 ## المجتمعات

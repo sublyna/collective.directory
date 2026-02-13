@@ -81,6 +81,7 @@
 | [BotSubscription](https://botsubscription.com/) | 用于付费访问Discord机器人和高级功能的平台。提升服务器功能。 | `云端` | `Discord`, `机器人`, `付费访问` |
 | [Circle](https://circle.so/) | 具有课程和活动的品牌空间社区平台。建立社区中心。 | `云端` | `社区平台`, `创作者`, `品牌空间` |
 | [Conquest](https://useconquest.com/) | 用于监控社区影响和参与度的分析平台。基于数据做决策。 | `云端` | `分析`, `数据驱动`, `会员监控` |
+| [Snowledge](https://snowledge.eu/) | AI-powered community intelligence copilot that connects all your community platforms, analyzes every conversation, and surfaces top insights, alerts, and reports so you can focus on strategy and growth. | `云端` | `分析`, `AI`, `社区管理`, `报告` |
 | [icon](https://www.iconmeetings.io/) | 集成Discord、WhatsApp、Meetup、Eventbrite、Slack和Circle的社区平台，配备AI助手。 | `云端` | `社区平台`, `活动管理`, `变现` |
 
 ## 社区

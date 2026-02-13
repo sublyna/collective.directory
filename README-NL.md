@@ -81,6 +81,7 @@ Als je iets onjuists vindt of een ander bedrijf wilt toevoegen, volg dan de [reg
 | [BotSubscription](https://botsubscription.com/) | Platform voor betaalde toegang tot Discord bots en premium functionaliteit. Verbeter je server capaciteiten. | `Cloud` | `Discord`, `Bot`, `Betaalde Toegang` |
 | [Circle](https://circle.so/) | Community platform voor merk ruimtes met cursussen en events. Bouw je community hub. | `Cloud` | `Community Platform`, `Creators`, `Merk Ruimtes` |
 | [Conquest](https://useconquest.com/) | Analyse platform voor het monitoren van community impact en engagement. Maak data-gedreven beslissingen. | `Cloud` | `Analyse`, `Data-gedreven`, `Leden Monitoring` |
+| [Snowledge](https://snowledge.eu/) | AI-powered community intelligence copilot that connects all your community platforms, analyzes every conversation, and surfaces top insights, alerts, and reports so you can focus on strategy and growth. | `Cloud` | `Analytics`, `AI`, `Community Management`, `Reporting` |
 | [icon](https://www.iconmeetings.io/) | Community platform dat Discord, WhatsApp, Meetup, Eventbrite, Slack en Circle integreert met AI assistent. | `Cloud` | `Community Platform`, `Event Management`, `Monetisatie` |
 
 ## Communities

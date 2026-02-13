@@ -81,6 +81,7 @@ Wenn Sie etwas Falsches finden oder ein anderes Unternehmen hinzufügen möchten
 | [BotSubscription](https://botsubscription.com/) | Plattform für kostenpflichtigen Zugang zu Discord-Bots und Premium-Funktionen. Verbessern Sie die Fähigkeiten Ihres Servers. | `Cloud` | `Discord`, `Bots`, `Kostenpflichtiger Zugang` |
 | [Circle](https://circle.so/) | Community-Plattform für Markenräume mit Kursen und Events. Bauen Sie Ihren Community-Hub. | `Cloud` | `Community-Plattform`, `Creators`, `Markenräume` |
 | [Conquest](https://useconquest.com/) | Analyse-Plattform zur Verfolgung von Community-Impact und -Engagement. Treffen Sie datenbasierte Entscheidungen. | `Cloud` | `Analyse`, `Datenbasiert`, `Mitglieder-Tracking` |
+| [Snowledge](https://snowledge.eu/) | AI-powered community intelligence copilot that connects all your community platforms, analyzes every conversation, and surfaces top insights, alerts, and reports so you can focus on strategy and growth. | `Cloud` | `Analytics`, `AI`, `Community Management`, `Reporting` |
 | [icon](https://www.iconmeetings.io/) | Community-Plattform, die Discord, WhatsApp, Meetup, Eventbrite, Slack und Circle mit KI-Assistent aggregiert. | `Cloud` | `Community-Plattform`, `Event-Management`, `Monetarisierung` |
 
 ## Communities
